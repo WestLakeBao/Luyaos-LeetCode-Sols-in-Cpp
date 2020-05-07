@@ -57,278 +57,278 @@ include CMakeFiles/untitled.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled.dir/flags.make
 
-CMakeFiles/untitled.dir/1._TwoSum.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/1._TwoSum.cpp.o: ../1.\ TwoSum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/1._TwoSum.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/1._TwoSum.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/1. TwoSum.cpp"
+CMakeFiles/untitled.dir/001._TwoSum.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/001._TwoSum.cpp.o: ../001.\ TwoSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled.dir/001._TwoSum.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/001._TwoSum.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/001. TwoSum.cpp"
 
-CMakeFiles/untitled.dir/1._TwoSum.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/1._TwoSum.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/1. TwoSum.cpp" > CMakeFiles/untitled.dir/1._TwoSum.cpp.i
+CMakeFiles/untitled.dir/001._TwoSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/001._TwoSum.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/001. TwoSum.cpp" > CMakeFiles/untitled.dir/001._TwoSum.cpp.i
 
-CMakeFiles/untitled.dir/1._TwoSum.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/1._TwoSum.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/1. TwoSum.cpp" -o CMakeFiles/untitled.dir/1._TwoSum.cpp.s
+CMakeFiles/untitled.dir/001._TwoSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/001._TwoSum.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/001. TwoSum.cpp" -o CMakeFiles/untitled.dir/001._TwoSum.cpp.s
 
-CMakeFiles/untitled.dir/2._AddTwoNumbers.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/2._AddTwoNumbers.cpp.o: ../2.\ AddTwoNumbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/2._AddTwoNumbers.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/2._AddTwoNumbers.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/2. AddTwoNumbers.cpp"
+CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.o: ../002.\ AddTwoNumbers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/002. AddTwoNumbers.cpp"
 
-CMakeFiles/untitled.dir/2._AddTwoNumbers.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/2._AddTwoNumbers.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/2. AddTwoNumbers.cpp" > CMakeFiles/untitled.dir/2._AddTwoNumbers.cpp.i
+CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/002. AddTwoNumbers.cpp" > CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.i
 
-CMakeFiles/untitled.dir/2._AddTwoNumbers.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/2._AddTwoNumbers.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/2. AddTwoNumbers.cpp" -o CMakeFiles/untitled.dir/2._AddTwoNumbers.cpp.s
+CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/002. AddTwoNumbers.cpp" -o CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.s
 
-CMakeFiles/untitled.dir/3._TheLongestSubstringWithoutRepeatingCharacters.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/3._TheLongestSubstringWithoutRepeatingCharacters.cpp.o: ../3.\ TheLongestSubstringWithoutRepeatingCharacters.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/3._TheLongestSubstringWithoutRepeatingCharacters.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/3._TheLongestSubstringWithoutRepeatingCharacters.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/3. TheLongestSubstringWithoutRepeatingCharacters.cpp"
+CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.o: ../003.\ TheLongestSubstringWithoutRepeatingCharacters.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/003. TheLongestSubstringWithoutRepeatingCharacters.cpp"
 
-CMakeFiles/untitled.dir/3._TheLongestSubstringWithoutRepeatingCharacters.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/3._TheLongestSubstringWithoutRepeatingCharacters.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/3. TheLongestSubstringWithoutRepeatingCharacters.cpp" > CMakeFiles/untitled.dir/3._TheLongestSubstringWithoutRepeatingCharacters.cpp.i
+CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/003. TheLongestSubstringWithoutRepeatingCharacters.cpp" > CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.i
 
-CMakeFiles/untitled.dir/3._TheLongestSubstringWithoutRepeatingCharacters.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/3._TheLongestSubstringWithoutRepeatingCharacters.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/3. TheLongestSubstringWithoutRepeatingCharacters.cpp" -o CMakeFiles/untitled.dir/3._TheLongestSubstringWithoutRepeatingCharacters.cpp.s
+CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/003. TheLongestSubstringWithoutRepeatingCharacters.cpp" -o CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.s
 
-CMakeFiles/untitled.dir/11._Container_With_Most_Water.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/11._Container_With_Most_Water.cpp.o: ../11.\ Container\ With\ Most\ Water.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/11._Container_With_Most_Water.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/11._Container_With_Most_Water.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/11. Container With Most Water.cpp"
+CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.o: ../011.\ Container\ With\ Most\ Water.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/011. Container With Most Water.cpp"
 
-CMakeFiles/untitled.dir/11._Container_With_Most_Water.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/11._Container_With_Most_Water.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/11. Container With Most Water.cpp" > CMakeFiles/untitled.dir/11._Container_With_Most_Water.cpp.i
+CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/011. Container With Most Water.cpp" > CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.i
 
-CMakeFiles/untitled.dir/11._Container_With_Most_Water.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/11._Container_With_Most_Water.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/11. Container With Most Water.cpp" -o CMakeFiles/untitled.dir/11._Container_With_Most_Water.cpp.s
+CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/011. Container With Most Water.cpp" -o CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.s
 
-CMakeFiles/untitled.dir/15._3Sum.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/15._3Sum.cpp.o: ../15.\ 3Sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/15._3Sum.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/15._3Sum.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/15. 3Sum.cpp"
+CMakeFiles/untitled.dir/015._3Sum.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/015._3Sum.cpp.o: ../015.\ 3Sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/015._3Sum.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/015._3Sum.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/015. 3Sum.cpp"
 
-CMakeFiles/untitled.dir/15._3Sum.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/15._3Sum.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/15. 3Sum.cpp" > CMakeFiles/untitled.dir/15._3Sum.cpp.i
+CMakeFiles/untitled.dir/015._3Sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/015._3Sum.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/015. 3Sum.cpp" > CMakeFiles/untitled.dir/015._3Sum.cpp.i
 
-CMakeFiles/untitled.dir/15._3Sum.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/15._3Sum.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/15. 3Sum.cpp" -o CMakeFiles/untitled.dir/15._3Sum.cpp.s
+CMakeFiles/untitled.dir/015._3Sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/015._3Sum.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/015. 3Sum.cpp" -o CMakeFiles/untitled.dir/015._3Sum.cpp.s
 
-CMakeFiles/untitled.dir/26._Remove_Duplicates_from_Sorted_Array.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/26._Remove_Duplicates_from_Sorted_Array.cpp.o: ../26.\ Remove\ Duplicates\ from\ Sorted\ Array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled.dir/26._Remove_Duplicates_from_Sorted_Array.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/26._Remove_Duplicates_from_Sorted_Array.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/26. Remove Duplicates from Sorted Array.cpp"
+CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.o: ../026.\ Remove\ Duplicates\ from\ Sorted\ Array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/026. Remove Duplicates from Sorted Array.cpp"
 
-CMakeFiles/untitled.dir/26._Remove_Duplicates_from_Sorted_Array.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/26._Remove_Duplicates_from_Sorted_Array.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/26. Remove Duplicates from Sorted Array.cpp" > CMakeFiles/untitled.dir/26._Remove_Duplicates_from_Sorted_Array.cpp.i
+CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/026. Remove Duplicates from Sorted Array.cpp" > CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.i
 
-CMakeFiles/untitled.dir/26._Remove_Duplicates_from_Sorted_Array.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/26._Remove_Duplicates_from_Sorted_Array.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/26. Remove Duplicates from Sorted Array.cpp" -o CMakeFiles/untitled.dir/26._Remove_Duplicates_from_Sorted_Array.cpp.s
+CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/026. Remove Duplicates from Sorted Array.cpp" -o CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.s
 
-CMakeFiles/untitled.dir/33._Search_in_Rotated_Sorted_Array.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/33._Search_in_Rotated_Sorted_Array.cpp.o: ../33.\ Search\ in\ Rotated\ Sorted\ Array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/untitled.dir/33._Search_in_Rotated_Sorted_Array.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/33._Search_in_Rotated_Sorted_Array.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/33. Search in Rotated Sorted Array.cpp"
+CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.o: ../033.\ Search\ in\ Rotated\ Sorted\ Array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/033. Search in Rotated Sorted Array.cpp"
 
-CMakeFiles/untitled.dir/33._Search_in_Rotated_Sorted_Array.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/33._Search_in_Rotated_Sorted_Array.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/33. Search in Rotated Sorted Array.cpp" > CMakeFiles/untitled.dir/33._Search_in_Rotated_Sorted_Array.cpp.i
+CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/033. Search in Rotated Sorted Array.cpp" > CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.i
 
-CMakeFiles/untitled.dir/33._Search_in_Rotated_Sorted_Array.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/33._Search_in_Rotated_Sorted_Array.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/33. Search in Rotated Sorted Array.cpp" -o CMakeFiles/untitled.dir/33._Search_in_Rotated_Sorted_Array.cpp.s
+CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/033. Search in Rotated Sorted Array.cpp" -o CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.s
 
-CMakeFiles/untitled.dir/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o: ../34.\ Find\ First\ and\ Last\ Position\ of\ Element\ in\ Sorted\ Array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/untitled.dir/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/34. Find First and Last Position of Element in Sorted Array.cpp"
+CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o: ../034.\ Find\ First\ and\ Last\ Position\ of\ Element\ in\ Sorted\ Array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/034. Find First and Last Position of Element in Sorted Array.cpp"
 
-CMakeFiles/untitled.dir/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/34. Find First and Last Position of Element in Sorted Array.cpp" > CMakeFiles/untitled.dir/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.i
+CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/034. Find First and Last Position of Element in Sorted Array.cpp" > CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.i
 
-CMakeFiles/untitled.dir/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/34. Find First and Last Position of Element in Sorted Array.cpp" -o CMakeFiles/untitled.dir/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.s
+CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/034. Find First and Last Position of Element in Sorted Array.cpp" -o CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.s
 
-CMakeFiles/untitled.dir/41._First_Missing_Positive.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/41._First_Missing_Positive.cpp.o: ../41.\ First\ Missing\ Positive.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/untitled.dir/41._First_Missing_Positive.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/41._First_Missing_Positive.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/41. First Missing Positive.cpp"
+CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.o: ../041.\ First\ Missing\ Positive.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/041. First Missing Positive.cpp"
 
-CMakeFiles/untitled.dir/41._First_Missing_Positive.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/41._First_Missing_Positive.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/41. First Missing Positive.cpp" > CMakeFiles/untitled.dir/41._First_Missing_Positive.cpp.i
+CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/041. First Missing Positive.cpp" > CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.i
 
-CMakeFiles/untitled.dir/41._First_Missing_Positive.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/41._First_Missing_Positive.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/41. First Missing Positive.cpp" -o CMakeFiles/untitled.dir/41._First_Missing_Positive.cpp.s
+CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/041. First Missing Positive.cpp" -o CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.s
 
-CMakeFiles/untitled.dir/48._Rotate_Image_.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/48._Rotate_Image_.cpp.o: ../48.\ Rotate\ Image\ .cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/untitled.dir/48._Rotate_Image_.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/48._Rotate_Image_.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/48. Rotate Image .cpp"
+CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.o: ../048.\ Rotate\ Image\ .cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/048. Rotate Image .cpp"
 
-CMakeFiles/untitled.dir/48._Rotate_Image_.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/48._Rotate_Image_.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/48. Rotate Image .cpp" > CMakeFiles/untitled.dir/48._Rotate_Image_.cpp.i
+CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/048. Rotate Image .cpp" > CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.i
 
-CMakeFiles/untitled.dir/48._Rotate_Image_.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/48._Rotate_Image_.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/48. Rotate Image .cpp" -o CMakeFiles/untitled.dir/48._Rotate_Image_.cpp.s
+CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/048. Rotate Image .cpp" -o CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.s
 
-CMakeFiles/untitled.dir/53._Maximum_Subarray.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/53._Maximum_Subarray.cpp.o: ../53.\ Maximum\ Subarray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/untitled.dir/53._Maximum_Subarray.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/53._Maximum_Subarray.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/53. Maximum Subarray.cpp"
+CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.o: ../053.\ Maximum\ Subarray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/053. Maximum Subarray.cpp"
 
-CMakeFiles/untitled.dir/53._Maximum_Subarray.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/53._Maximum_Subarray.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/53. Maximum Subarray.cpp" > CMakeFiles/untitled.dir/53._Maximum_Subarray.cpp.i
+CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/053. Maximum Subarray.cpp" > CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.i
 
-CMakeFiles/untitled.dir/53._Maximum_Subarray.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/53._Maximum_Subarray.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/53. Maximum Subarray.cpp" -o CMakeFiles/untitled.dir/53._Maximum_Subarray.cpp.s
+CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/053. Maximum Subarray.cpp" -o CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.s
 
-CMakeFiles/untitled.dir/54._Spiral_Matrix.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/54._Spiral_Matrix.cpp.o: ../54.\ Spiral\ Matrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/untitled.dir/54._Spiral_Matrix.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/54._Spiral_Matrix.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/54. Spiral Matrix.cpp"
+CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.o: ../054.\ Spiral\ Matrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/054. Spiral Matrix.cpp"
 
-CMakeFiles/untitled.dir/54._Spiral_Matrix.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/54._Spiral_Matrix.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/54. Spiral Matrix.cpp" > CMakeFiles/untitled.dir/54._Spiral_Matrix.cpp.i
+CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/054. Spiral Matrix.cpp" > CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.i
 
-CMakeFiles/untitled.dir/54._Spiral_Matrix.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/54._Spiral_Matrix.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/54. Spiral Matrix.cpp" -o CMakeFiles/untitled.dir/54._Spiral_Matrix.cpp.s
+CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/054. Spiral Matrix.cpp" -o CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.s
 
-CMakeFiles/untitled.dir/55._Jump_Game.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/55._Jump_Game.cpp.o: ../55.\ Jump\ Game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/untitled.dir/55._Jump_Game.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/55._Jump_Game.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/55. Jump Game.cpp"
+CMakeFiles/untitled.dir/055._Jump_Game.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/055._Jump_Game.cpp.o: ../055.\ Jump\ Game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/untitled.dir/055._Jump_Game.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/055._Jump_Game.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/055. Jump Game.cpp"
 
-CMakeFiles/untitled.dir/55._Jump_Game.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/55._Jump_Game.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/55. Jump Game.cpp" > CMakeFiles/untitled.dir/55._Jump_Game.cpp.i
+CMakeFiles/untitled.dir/055._Jump_Game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/055._Jump_Game.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/055. Jump Game.cpp" > CMakeFiles/untitled.dir/055._Jump_Game.cpp.i
 
-CMakeFiles/untitled.dir/55._Jump_Game.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/55._Jump_Game.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/55. Jump Game.cpp" -o CMakeFiles/untitled.dir/55._Jump_Game.cpp.s
+CMakeFiles/untitled.dir/055._Jump_Game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/055._Jump_Game.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/055. Jump Game.cpp" -o CMakeFiles/untitled.dir/055._Jump_Game.cpp.s
 
-CMakeFiles/untitled.dir/62._Unique_Paths.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/62._Unique_Paths.cpp.o: ../62.\ Unique\ Paths.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/untitled.dir/62._Unique_Paths.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/62._Unique_Paths.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/62. Unique Paths.cpp"
+CMakeFiles/untitled.dir/062._Unique_Paths.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/062._Unique_Paths.cpp.o: ../062.\ Unique\ Paths.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/untitled.dir/062._Unique_Paths.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/062._Unique_Paths.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/062. Unique Paths.cpp"
 
-CMakeFiles/untitled.dir/62._Unique_Paths.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/62._Unique_Paths.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/62. Unique Paths.cpp" > CMakeFiles/untitled.dir/62._Unique_Paths.cpp.i
+CMakeFiles/untitled.dir/062._Unique_Paths.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/062._Unique_Paths.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/062. Unique Paths.cpp" > CMakeFiles/untitled.dir/062._Unique_Paths.cpp.i
 
-CMakeFiles/untitled.dir/62._Unique_Paths.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/62._Unique_Paths.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/62. Unique Paths.cpp" -o CMakeFiles/untitled.dir/62._Unique_Paths.cpp.s
+CMakeFiles/untitled.dir/062._Unique_Paths.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/062._Unique_Paths.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/062. Unique Paths.cpp" -o CMakeFiles/untitled.dir/062._Unique_Paths.cpp.s
 
-CMakeFiles/untitled.dir/73._Set_Matrix_Zeroes.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/73._Set_Matrix_Zeroes.cpp.o: ../73.\ Set\ Matrix\ Zeroes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/untitled.dir/73._Set_Matrix_Zeroes.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/73._Set_Matrix_Zeroes.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/73. Set Matrix Zeroes.cpp"
+CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.o: ../073.\ Set\ Matrix\ Zeroes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/073. Set Matrix Zeroes.cpp"
 
-CMakeFiles/untitled.dir/73._Set_Matrix_Zeroes.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/73._Set_Matrix_Zeroes.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/73. Set Matrix Zeroes.cpp" > CMakeFiles/untitled.dir/73._Set_Matrix_Zeroes.cpp.i
+CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/073. Set Matrix Zeroes.cpp" > CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.i
 
-CMakeFiles/untitled.dir/73._Set_Matrix_Zeroes.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/73._Set_Matrix_Zeroes.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/73. Set Matrix Zeroes.cpp" -o CMakeFiles/untitled.dir/73._Set_Matrix_Zeroes.cpp.s
+CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/073. Set Matrix Zeroes.cpp" -o CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.s
 
-CMakeFiles/untitled.dir/66._Plus_One.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/66._Plus_One.cpp.o: ../66.\ Plus\ One.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/untitled.dir/66._Plus_One.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/66._Plus_One.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/66. Plus One.cpp"
+CMakeFiles/untitled.dir/066._Plus_One.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/066._Plus_One.cpp.o: ../066.\ Plus\ One.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/untitled.dir/066._Plus_One.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/066._Plus_One.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/066. Plus One.cpp"
 
-CMakeFiles/untitled.dir/66._Plus_One.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/66._Plus_One.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/66. Plus One.cpp" > CMakeFiles/untitled.dir/66._Plus_One.cpp.i
+CMakeFiles/untitled.dir/066._Plus_One.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/066._Plus_One.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/066. Plus One.cpp" > CMakeFiles/untitled.dir/066._Plus_One.cpp.i
 
-CMakeFiles/untitled.dir/66._Plus_One.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/66._Plus_One.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/66. Plus One.cpp" -o CMakeFiles/untitled.dir/66._Plus_One.cpp.s
+CMakeFiles/untitled.dir/066._Plus_One.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/066._Plus_One.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/066. Plus One.cpp" -o CMakeFiles/untitled.dir/066._Plus_One.cpp.s
 
-CMakeFiles/untitled.dir/56._Merge_Intervals.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/56._Merge_Intervals.cpp.o: ../56.\ Merge\ Intervals.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/untitled.dir/56._Merge_Intervals.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/56._Merge_Intervals.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/56. Merge Intervals.cpp"
+CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.o: ../056.\ Merge\ Intervals.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/056. Merge Intervals.cpp"
 
-CMakeFiles/untitled.dir/56._Merge_Intervals.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/56._Merge_Intervals.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/56. Merge Intervals.cpp" > CMakeFiles/untitled.dir/56._Merge_Intervals.cpp.i
+CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/056. Merge Intervals.cpp" > CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.i
 
-CMakeFiles/untitled.dir/56._Merge_Intervals.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/56._Merge_Intervals.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/56. Merge Intervals.cpp" -o CMakeFiles/untitled.dir/56._Merge_Intervals.cpp.s
+CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/056. Merge Intervals.cpp" -o CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.s
 
-CMakeFiles/untitled.dir/75._Sort_Colors.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/75._Sort_Colors.cpp.o: ../75.\ Sort\ Colors.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/untitled.dir/75._Sort_Colors.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/75._Sort_Colors.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/75. Sort Colors.cpp"
+CMakeFiles/untitled.dir/075._Sort_Colors.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/075._Sort_Colors.cpp.o: ../075.\ Sort\ Colors.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/untitled.dir/075._Sort_Colors.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/075._Sort_Colors.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/075. Sort Colors.cpp"
 
-CMakeFiles/untitled.dir/75._Sort_Colors.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/75._Sort_Colors.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/75. Sort Colors.cpp" > CMakeFiles/untitled.dir/75._Sort_Colors.cpp.i
+CMakeFiles/untitled.dir/075._Sort_Colors.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/075._Sort_Colors.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/075. Sort Colors.cpp" > CMakeFiles/untitled.dir/075._Sort_Colors.cpp.i
 
-CMakeFiles/untitled.dir/75._Sort_Colors.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/75._Sort_Colors.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/75. Sort Colors.cpp" -o CMakeFiles/untitled.dir/75._Sort_Colors.cpp.s
+CMakeFiles/untitled.dir/075._Sort_Colors.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/075._Sort_Colors.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/075. Sort Colors.cpp" -o CMakeFiles/untitled.dir/075._Sort_Colors.cpp.s
 
-CMakeFiles/untitled.dir/78._Subsets.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/78._Subsets.cpp.o: ../78.\ Subsets.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/untitled.dir/78._Subsets.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/78._Subsets.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/78. Subsets.cpp"
+CMakeFiles/untitled.dir/078._Subsets.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/078._Subsets.cpp.o: ../078.\ Subsets.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/untitled.dir/078._Subsets.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/078._Subsets.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/078. Subsets.cpp"
 
-CMakeFiles/untitled.dir/78._Subsets.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/78._Subsets.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/78. Subsets.cpp" > CMakeFiles/untitled.dir/78._Subsets.cpp.i
+CMakeFiles/untitled.dir/078._Subsets.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/078._Subsets.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/078. Subsets.cpp" > CMakeFiles/untitled.dir/078._Subsets.cpp.i
 
-CMakeFiles/untitled.dir/78._Subsets.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/78._Subsets.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/78. Subsets.cpp" -o CMakeFiles/untitled.dir/78._Subsets.cpp.s
+CMakeFiles/untitled.dir/078._Subsets.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/078._Subsets.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/078. Subsets.cpp" -o CMakeFiles/untitled.dir/078._Subsets.cpp.s
 
-CMakeFiles/untitled.dir/79._Word_Search.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/79._Word_Search.cpp.o: ../79.\ Word\ Search.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/untitled.dir/79._Word_Search.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/79._Word_Search.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/79. Word Search.cpp"
+CMakeFiles/untitled.dir/079._Word_Search.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/079._Word_Search.cpp.o: ../079.\ Word\ Search.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/untitled.dir/079._Word_Search.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/079._Word_Search.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/079. Word Search.cpp"
 
-CMakeFiles/untitled.dir/79._Word_Search.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/79._Word_Search.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/79. Word Search.cpp" > CMakeFiles/untitled.dir/79._Word_Search.cpp.i
+CMakeFiles/untitled.dir/079._Word_Search.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/079._Word_Search.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/079. Word Search.cpp" > CMakeFiles/untitled.dir/079._Word_Search.cpp.i
 
-CMakeFiles/untitled.dir/79._Word_Search.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/79._Word_Search.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/79. Word Search.cpp" -o CMakeFiles/untitled.dir/79._Word_Search.cpp.s
+CMakeFiles/untitled.dir/079._Word_Search.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/079._Word_Search.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/079. Word Search.cpp" -o CMakeFiles/untitled.dir/079._Word_Search.cpp.s
 
-CMakeFiles/untitled.dir/88._Merge_Sorted_Array.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/88._Merge_Sorted_Array.cpp.o: ../88.\ Merge\ Sorted\ Array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/untitled.dir/88._Merge_Sorted_Array.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/88._Merge_Sorted_Array.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/88. Merge Sorted Array.cpp"
+CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.o: ../088.\ Merge\ Sorted\ Array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/088. Merge Sorted Array.cpp"
 
-CMakeFiles/untitled.dir/88._Merge_Sorted_Array.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/88._Merge_Sorted_Array.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/88. Merge Sorted Array.cpp" > CMakeFiles/untitled.dir/88._Merge_Sorted_Array.cpp.i
+CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/088. Merge Sorted Array.cpp" > CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.i
 
-CMakeFiles/untitled.dir/88._Merge_Sorted_Array.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/88._Merge_Sorted_Array.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/88. Merge Sorted Array.cpp" -o CMakeFiles/untitled.dir/88._Merge_Sorted_Array.cpp.s
+CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/088. Merge Sorted Array.cpp" -o CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.s
 
 CMakeFiles/untitled.dir/105._Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/105._Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp.o: ../105.\ Construct\ Binary\ Tree\ from\ Preorder\ and\ Inorder\ Traversal.cpp
@@ -525,44 +525,44 @@ CMakeFiles/untitled.dir/380._Insert_Delete_GetRandom_O(1).cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/380._Insert_Delete_GetRandom_O(1).cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/380. Insert Delete GetRandom O(1).cpp" -o "CMakeFiles/untitled.dir/380._Insert_Delete_GetRandom_O(1).cpp.s"
 
-CMakeFiles/untitled.dir/36._Valid_Sudoku.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/36._Valid_Sudoku.cpp.o: ../36.\ Valid\ Sudoku.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/untitled.dir/36._Valid_Sudoku.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/36._Valid_Sudoku.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/36. Valid Sudoku.cpp"
+CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.o: ../036.\ Valid\ Sudoku.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/036. Valid Sudoku.cpp"
 
-CMakeFiles/untitled.dir/36._Valid_Sudoku.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/36._Valid_Sudoku.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/36. Valid Sudoku.cpp" > CMakeFiles/untitled.dir/36._Valid_Sudoku.cpp.i
+CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/036. Valid Sudoku.cpp" > CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.i
 
-CMakeFiles/untitled.dir/36._Valid_Sudoku.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/36._Valid_Sudoku.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/36. Valid Sudoku.cpp" -o CMakeFiles/untitled.dir/36._Valid_Sudoku.cpp.s
+CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/036. Valid Sudoku.cpp" -o CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.s
 
-CMakeFiles/untitled.dir/49._Group_Anagrams.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/49._Group_Anagrams.cpp.o: ../49.\ Group\ Anagrams.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/untitled.dir/49._Group_Anagrams.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/49._Group_Anagrams.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/49. Group Anagrams.cpp"
+CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.o: ../049.\ Group\ Anagrams.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/049. Group Anagrams.cpp"
 
-CMakeFiles/untitled.dir/49._Group_Anagrams.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/49._Group_Anagrams.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/49. Group Anagrams.cpp" > CMakeFiles/untitled.dir/49._Group_Anagrams.cpp.i
+CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/049. Group Anagrams.cpp" > CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.i
 
-CMakeFiles/untitled.dir/49._Group_Anagrams.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/49._Group_Anagrams.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/49. Group Anagrams.cpp" -o CMakeFiles/untitled.dir/49._Group_Anagrams.cpp.s
+CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/049. Group Anagrams.cpp" -o CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.s
 
-CMakeFiles/untitled.dir/94._Binary_Tree_Inorder_Traversal.cpp.o: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/94._Binary_Tree_Inorder_Traversal.cpp.o: ../94.\ Binary\ Tree\ Inorder\ Traversal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/untitled.dir/94._Binary_Tree_Inorder_Traversal.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/94._Binary_Tree_Inorder_Traversal.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/94. Binary Tree Inorder Traversal.cpp"
+CMakeFiles/untitled.dir/094._Binary_Tree_Inorder_Traversal.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/094._Binary_Tree_Inorder_Traversal.cpp.o: ../094.\ Binary\ Tree\ Inorder\ Traversal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/untitled.dir/094._Binary_Tree_Inorder_Traversal.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/094._Binary_Tree_Inorder_Traversal.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/094. Binary Tree Inorder Traversal.cpp"
 
-CMakeFiles/untitled.dir/94._Binary_Tree_Inorder_Traversal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/94._Binary_Tree_Inorder_Traversal.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/94. Binary Tree Inorder Traversal.cpp" > CMakeFiles/untitled.dir/94._Binary_Tree_Inorder_Traversal.cpp.i
+CMakeFiles/untitled.dir/094._Binary_Tree_Inorder_Traversal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/094._Binary_Tree_Inorder_Traversal.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/094. Binary Tree Inorder Traversal.cpp" > CMakeFiles/untitled.dir/094._Binary_Tree_Inorder_Traversal.cpp.i
 
-CMakeFiles/untitled.dir/94._Binary_Tree_Inorder_Traversal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/94._Binary_Tree_Inorder_Traversal.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/94. Binary Tree Inorder Traversal.cpp" -o CMakeFiles/untitled.dir/94._Binary_Tree_Inorder_Traversal.cpp.s
+CMakeFiles/untitled.dir/094._Binary_Tree_Inorder_Traversal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/094._Binary_Tree_Inorder_Traversal.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/094. Binary Tree Inorder Traversal.cpp" -o CMakeFiles/untitled.dir/094._Binary_Tree_Inorder_Traversal.cpp.s
 
 CMakeFiles/untitled.dir/136._Single_Number.cpp.o: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/136._Single_Number.cpp.o: ../136.\ Single\ Number.cpp
@@ -642,29 +642,120 @@ CMakeFiles/untitled.dir/242._Valid_Anagram.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/242._Valid_Anagram.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/242. Valid Anagram.cpp" -o CMakeFiles/untitled.dir/242._Valid_Anagram.cpp.s
 
+CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.o: ../347.\ Top\ K\ Frequent\ Elements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/347. Top K Frequent Elements.cpp"
+
+CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/347. Top K Frequent Elements.cpp" > CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.i
+
+CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/347. Top K Frequent Elements.cpp" -o CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.s
+
+CMakeFiles/untitled.dir/350._Intersection_of_Two_Arrays_II.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/350._Intersection_of_Two_Arrays_II.cpp.o: ../350.\ Intersection\ of\ Two\ Arrays\ II.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/untitled.dir/350._Intersection_of_Two_Arrays_II.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/350._Intersection_of_Two_Arrays_II.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/350. Intersection of Two Arrays II.cpp"
+
+CMakeFiles/untitled.dir/350._Intersection_of_Two_Arrays_II.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/350._Intersection_of_Two_Arrays_II.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/350. Intersection of Two Arrays II.cpp" > CMakeFiles/untitled.dir/350._Intersection_of_Two_Arrays_II.cpp.i
+
+CMakeFiles/untitled.dir/350._Intersection_of_Two_Arrays_II.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/350._Intersection_of_Two_Arrays_II.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/350. Intersection of Two Arrays II.cpp" -o CMakeFiles/untitled.dir/350._Intersection_of_Two_Arrays_II.cpp.s
+
+CMakeFiles/untitled.dir/387._First_Unique_Character_in_a_String.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/387._First_Unique_Character_in_a_String.cpp.o: ../387.\ First\ Unique\ Character\ in\ a\ String.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/untitled.dir/387._First_Unique_Character_in_a_String.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/387._First_Unique_Character_in_a_String.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/387. First Unique Character in a String.cpp"
+
+CMakeFiles/untitled.dir/387._First_Unique_Character_in_a_String.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/387._First_Unique_Character_in_a_String.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/387. First Unique Character in a String.cpp" > CMakeFiles/untitled.dir/387._First_Unique_Character_in_a_String.cpp.i
+
+CMakeFiles/untitled.dir/387._First_Unique_Character_in_a_String.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/387._First_Unique_Character_in_a_String.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/387. First Unique Character in a String.cpp" -o CMakeFiles/untitled.dir/387._First_Unique_Character_in_a_String.cpp.s
+
+CMakeFiles/untitled.dir/454._4Sum_II.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/454._4Sum_II.cpp.o: ../454.\ 4Sum\ II.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/untitled.dir/454._4Sum_II.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/454._4Sum_II.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/454. 4Sum II.cpp"
+
+CMakeFiles/untitled.dir/454._4Sum_II.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/454._4Sum_II.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/454. 4Sum II.cpp" > CMakeFiles/untitled.dir/454._4Sum_II.cpp.i
+
+CMakeFiles/untitled.dir/454._4Sum_II.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/454._4Sum_II.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/454. 4Sum II.cpp" -o CMakeFiles/untitled.dir/454._4Sum_II.cpp.s
+
+CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.o: ../019.\ Remove\ Nth\ Node\ From\ End\ of\ List.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/019. Remove Nth Node From End of List.cpp"
+
+CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/019. Remove Nth Node From End of List.cpp" > CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.i
+
+CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/019. Remove Nth Node From End of List.cpp" -o CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.s
+
+CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.o: ../021.\ Merge\ Two\ Sorted\ Lists.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/021. Merge Two Sorted Lists.cpp"
+
+CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/021. Merge Two Sorted Lists.cpp" > CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.i
+
+CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/021. Merge Two Sorted Lists.cpp" -o CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.s
+
+CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o: ../023.\ Merge\ k\ Sorted\ Lists.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/023. Merge k Sorted Lists.cpp"
+
+CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/023. Merge k Sorted Lists.cpp" > CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.i
+
+CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/023. Merge k Sorted Lists.cpp" -o CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
-"CMakeFiles/untitled.dir/1._TwoSum.cpp.o" \
-"CMakeFiles/untitled.dir/2._AddTwoNumbers.cpp.o" \
-"CMakeFiles/untitled.dir/3._TheLongestSubstringWithoutRepeatingCharacters.cpp.o" \
-"CMakeFiles/untitled.dir/11._Container_With_Most_Water.cpp.o" \
-"CMakeFiles/untitled.dir/15._3Sum.cpp.o" \
-"CMakeFiles/untitled.dir/26._Remove_Duplicates_from_Sorted_Array.cpp.o" \
-"CMakeFiles/untitled.dir/33._Search_in_Rotated_Sorted_Array.cpp.o" \
-"CMakeFiles/untitled.dir/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o" \
-"CMakeFiles/untitled.dir/41._First_Missing_Positive.cpp.o" \
-"CMakeFiles/untitled.dir/48._Rotate_Image_.cpp.o" \
-"CMakeFiles/untitled.dir/53._Maximum_Subarray.cpp.o" \
-"CMakeFiles/untitled.dir/54._Spiral_Matrix.cpp.o" \
-"CMakeFiles/untitled.dir/55._Jump_Game.cpp.o" \
-"CMakeFiles/untitled.dir/62._Unique_Paths.cpp.o" \
-"CMakeFiles/untitled.dir/73._Set_Matrix_Zeroes.cpp.o" \
-"CMakeFiles/untitled.dir/66._Plus_One.cpp.o" \
-"CMakeFiles/untitled.dir/56._Merge_Intervals.cpp.o" \
-"CMakeFiles/untitled.dir/75._Sort_Colors.cpp.o" \
-"CMakeFiles/untitled.dir/78._Subsets.cpp.o" \
-"CMakeFiles/untitled.dir/79._Word_Search.cpp.o" \
-"CMakeFiles/untitled.dir/88._Merge_Sorted_Array.cpp.o" \
+"CMakeFiles/untitled.dir/001._TwoSum.cpp.o" \
+"CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.o" \
+"CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.o" \
+"CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.o" \
+"CMakeFiles/untitled.dir/015._3Sum.cpp.o" \
+"CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.o" \
+"CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.o" \
+"CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o" \
+"CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.o" \
+"CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.o" \
+"CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.o" \
+"CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.o" \
+"CMakeFiles/untitled.dir/055._Jump_Game.cpp.o" \
+"CMakeFiles/untitled.dir/062._Unique_Paths.cpp.o" \
+"CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.o" \
+"CMakeFiles/untitled.dir/066._Plus_One.cpp.o" \
+"CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.o" \
+"CMakeFiles/untitled.dir/075._Sort_Colors.cpp.o" \
+"CMakeFiles/untitled.dir/078._Subsets.cpp.o" \
+"CMakeFiles/untitled.dir/079._Word_Search.cpp.o" \
+"CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.o" \
 "CMakeFiles/untitled.dir/105._Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp.o" \
 "CMakeFiles/untitled.dir/118._Pascal's_Triangle.cpp.o" \
 "CMakeFiles/untitled.dir/121._Best_Time_to_Buy_and_Sell_Stock.cpp.o" \
@@ -680,40 +771,47 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/287._Find_the_Duplicate_Number.cpp.o" \
 "CMakeFiles/untitled.dir/289._Game_of_Life.cpp.o" \
 "CMakeFiles/untitled.dir/380._Insert_Delete_GetRandom_O(1).cpp.o" \
-"CMakeFiles/untitled.dir/36._Valid_Sudoku.cpp.o" \
-"CMakeFiles/untitled.dir/49._Group_Anagrams.cpp.o" \
-"CMakeFiles/untitled.dir/94._Binary_Tree_Inorder_Traversal.cpp.o" \
+"CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.o" \
+"CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.o" \
+"CMakeFiles/untitled.dir/094._Binary_Tree_Inorder_Traversal.cpp.o" \
 "CMakeFiles/untitled.dir/136._Single_Number.cpp.o" \
 "CMakeFiles/untitled.dir/138._Copy_List_with_Random_Pointer.cpp.o" \
 "CMakeFiles/untitled.dir/166._Fraction_to_Recurring_Decimal.cpp.o" \
 "CMakeFiles/untitled.dir/202._Happy_Number.cpp.o" \
 "CMakeFiles/untitled.dir/204._Count_Primes.cpp.o" \
-"CMakeFiles/untitled.dir/242._Valid_Anagram.cpp.o"
+"CMakeFiles/untitled.dir/242._Valid_Anagram.cpp.o" \
+"CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.o" \
+"CMakeFiles/untitled.dir/350._Intersection_of_Two_Arrays_II.cpp.o" \
+"CMakeFiles/untitled.dir/387._First_Unique_Character_in_a_String.cpp.o" \
+"CMakeFiles/untitled.dir/454._4Sum_II.cpp.o" \
+"CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.o" \
+"CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.o" \
+"CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
 
-untitled: CMakeFiles/untitled.dir/1._TwoSum.cpp.o
-untitled: CMakeFiles/untitled.dir/2._AddTwoNumbers.cpp.o
-untitled: CMakeFiles/untitled.dir/3._TheLongestSubstringWithoutRepeatingCharacters.cpp.o
-untitled: CMakeFiles/untitled.dir/11._Container_With_Most_Water.cpp.o
-untitled: CMakeFiles/untitled.dir/15._3Sum.cpp.o
-untitled: CMakeFiles/untitled.dir/26._Remove_Duplicates_from_Sorted_Array.cpp.o
-untitled: CMakeFiles/untitled.dir/33._Search_in_Rotated_Sorted_Array.cpp.o
-untitled: CMakeFiles/untitled.dir/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o
-untitled: CMakeFiles/untitled.dir/41._First_Missing_Positive.cpp.o
-untitled: CMakeFiles/untitled.dir/48._Rotate_Image_.cpp.o
-untitled: CMakeFiles/untitled.dir/53._Maximum_Subarray.cpp.o
-untitled: CMakeFiles/untitled.dir/54._Spiral_Matrix.cpp.o
-untitled: CMakeFiles/untitled.dir/55._Jump_Game.cpp.o
-untitled: CMakeFiles/untitled.dir/62._Unique_Paths.cpp.o
-untitled: CMakeFiles/untitled.dir/73._Set_Matrix_Zeroes.cpp.o
-untitled: CMakeFiles/untitled.dir/66._Plus_One.cpp.o
-untitled: CMakeFiles/untitled.dir/56._Merge_Intervals.cpp.o
-untitled: CMakeFiles/untitled.dir/75._Sort_Colors.cpp.o
-untitled: CMakeFiles/untitled.dir/78._Subsets.cpp.o
-untitled: CMakeFiles/untitled.dir/79._Word_Search.cpp.o
-untitled: CMakeFiles/untitled.dir/88._Merge_Sorted_Array.cpp.o
+untitled: CMakeFiles/untitled.dir/001._TwoSum.cpp.o
+untitled: CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.o
+untitled: CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.o
+untitled: CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.o
+untitled: CMakeFiles/untitled.dir/015._3Sum.cpp.o
+untitled: CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.o
+untitled: CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.o
+untitled: CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o
+untitled: CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.o
+untitled: CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.o
+untitled: CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.o
+untitled: CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.o
+untitled: CMakeFiles/untitled.dir/055._Jump_Game.cpp.o
+untitled: CMakeFiles/untitled.dir/062._Unique_Paths.cpp.o
+untitled: CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.o
+untitled: CMakeFiles/untitled.dir/066._Plus_One.cpp.o
+untitled: CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.o
+untitled: CMakeFiles/untitled.dir/075._Sort_Colors.cpp.o
+untitled: CMakeFiles/untitled.dir/078._Subsets.cpp.o
+untitled: CMakeFiles/untitled.dir/079._Word_Search.cpp.o
+untitled: CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.o
 untitled: CMakeFiles/untitled.dir/105._Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp.o
 untitled: CMakeFiles/untitled.dir/118._Pascal's_Triangle.cpp.o
 untitled: CMakeFiles/untitled.dir/121._Best_Time_to_Buy_and_Sell_Stock.cpp.o
@@ -729,18 +827,25 @@ untitled: CMakeFiles/untitled.dir/283._Move_Zeroes.cpp.o
 untitled: CMakeFiles/untitled.dir/287._Find_the_Duplicate_Number.cpp.o
 untitled: CMakeFiles/untitled.dir/289._Game_of_Life.cpp.o
 untitled: CMakeFiles/untitled.dir/380._Insert_Delete_GetRandom_O(1).cpp.o
-untitled: CMakeFiles/untitled.dir/36._Valid_Sudoku.cpp.o
-untitled: CMakeFiles/untitled.dir/49._Group_Anagrams.cpp.o
-untitled: CMakeFiles/untitled.dir/94._Binary_Tree_Inorder_Traversal.cpp.o
+untitled: CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.o
+untitled: CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.o
+untitled: CMakeFiles/untitled.dir/094._Binary_Tree_Inorder_Traversal.cpp.o
 untitled: CMakeFiles/untitled.dir/136._Single_Number.cpp.o
 untitled: CMakeFiles/untitled.dir/138._Copy_List_with_Random_Pointer.cpp.o
 untitled: CMakeFiles/untitled.dir/166._Fraction_to_Recurring_Decimal.cpp.o
 untitled: CMakeFiles/untitled.dir/202._Happy_Number.cpp.o
 untitled: CMakeFiles/untitled.dir/204._Count_Primes.cpp.o
 untitled: CMakeFiles/untitled.dir/242._Valid_Anagram.cpp.o
+untitled: CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.o
+untitled: CMakeFiles/untitled.dir/350._Intersection_of_Two_Arrays_II.cpp.o
+untitled: CMakeFiles/untitled.dir/387._First_Unique_Character_in_a_String.cpp.o
+untitled: CMakeFiles/untitled.dir/454._4Sum_II.cpp.o
+untitled: CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.o
+untitled: CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.o
+untitled: CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

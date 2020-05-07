@@ -40,7 +40,9 @@ public:
         for (int num: nums) map[num]++;
         priority_queue<pair<int, int>, vector<pair<int, int>>, ComparePair> k_most_heap;
         for (auto element:map){
-            if (k_most_heap.size()<k) k_most_heap.push(element);
+            if (k_most_heap.size()<k) {
+                k_most_heap.push(element);
+            }
             else {
                 pair<int, int> heap_min=k_most_heap.top();
                 if (element.second > heap_min.second) {
@@ -58,3 +60,11 @@ public:
         return result;
     }
 };
+
+int main347(){
+    Solution solution;
+    vector<int> nums={1,1,1,2,2,3};
+    int k=2;
+    solution.topKFrequent(nums, k);
+    return 0;
+}

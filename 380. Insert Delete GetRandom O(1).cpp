@@ -25,10 +25,10 @@ public:
         auto val_index = index.find(val); //val_index is a dictionary item
         if (val_index == index.end()) return false;
         auto last_index = index.find(array.back()); //last_index is a dictionary item
-        swap(array[val_index->second], array[last_index->second]);
-        index[last_index->first] = val_index->second;
-        array.pop_back();
-        index.erase(val_index);
+        swap(array[val_index->second], array[last_index->second]); //swap
+        index[last_index->first] = val_index->second; //update the map
+        array.pop_back(); //delete val from the array
+        index.erase(val_index); // delete val from the map
         return true;
     }
 

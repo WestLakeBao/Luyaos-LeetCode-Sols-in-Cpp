@@ -25,7 +25,7 @@ public:
     }
 };
 
-int main(){
+int main204(){
     Solution solution;
     int result=solution.countPrimes(10);
     return 0;

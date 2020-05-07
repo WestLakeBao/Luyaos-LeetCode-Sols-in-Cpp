@@ -35,7 +35,7 @@ public:
         }
         return copies[head];
     }
-    //Solution 2: use of hash mao (recursion) 96% & 100%
+    //Solution 2: use of hash map (recursion) 96% & 100%
     Node* copyRandomList2(Node* head) {
         if (!head) return NULL;
         if (copies.find(head)==copies.end()){
