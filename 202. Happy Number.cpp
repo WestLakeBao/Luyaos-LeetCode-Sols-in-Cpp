@@ -5,10 +5,9 @@ using namespace std;
 class Solution {
 public:
     bool isHappy(int n) {
-        int digit_sum=0;
         int dict[1000] = {0}; //create an array with size 1000 and each value == 0. same logic as map, but same more time
         while (n != 1){
-            digit_sum = 0;
+            int digit_sum = 0;
             while (n){
                 digit_sum += (n%10) * (n%10);
                 n /= 10;

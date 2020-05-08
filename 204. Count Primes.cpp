@@ -10,7 +10,7 @@ public:
         vector<bool> primes(n, true);
         primes[0] = primes[1] = false;
         for (int i=2; i<sqrt(n)+1; i++) {
-            if (primes[i]) {
+            if (primes[i]) { // dont forget this line!
             for (int j = i * i; j < n; j += i) {
                 primes[j] = false;
             }

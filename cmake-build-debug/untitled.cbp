@@ -179,7 +179,16 @@
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/138. Copy List with Random Pointer.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/141. Linked List Cycle.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/148. Sort List.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/152. Maximum Product Subarray.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/160. Intersection of Two Linked Lists.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/162. Find Peak Element.cpp">
@@ -198,6 +207,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/204. Count Primes.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/206. Reverse Linked List.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/217. Contains Duplicate.cpp">

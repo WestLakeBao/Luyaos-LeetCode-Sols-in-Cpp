@@ -1014,6 +1014,60 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/138._Copy_List_with_Random_Pointer.cpp.s
 .PHONY : 138._Copy_List_with_Random_Pointer.cpp.s
 
+141._Linked_List_Cycle.o: 141._Linked_List_Cycle.cpp.o
+
+.PHONY : 141._Linked_List_Cycle.o
+
+# target to build an object file
+141._Linked_List_Cycle.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.o
+.PHONY : 141._Linked_List_Cycle.cpp.o
+
+141._Linked_List_Cycle.i: 141._Linked_List_Cycle.cpp.i
+
+.PHONY : 141._Linked_List_Cycle.i
+
+# target to preprocess a source file
+141._Linked_List_Cycle.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.i
+.PHONY : 141._Linked_List_Cycle.cpp.i
+
+141._Linked_List_Cycle.s: 141._Linked_List_Cycle.cpp.s
+
+.PHONY : 141._Linked_List_Cycle.s
+
+# target to generate assembly for a file
+141._Linked_List_Cycle.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.s
+.PHONY : 141._Linked_List_Cycle.cpp.s
+
+148._Sort_List.o: 148._Sort_List.cpp.o
+
+.PHONY : 148._Sort_List.o
+
+# target to build an object file
+148._Sort_List.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/148._Sort_List.cpp.o
+.PHONY : 148._Sort_List.cpp.o
+
+148._Sort_List.i: 148._Sort_List.cpp.i
+
+.PHONY : 148._Sort_List.i
+
+# target to preprocess a source file
+148._Sort_List.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/148._Sort_List.cpp.i
+.PHONY : 148._Sort_List.cpp.i
+
+148._Sort_List.s: 148._Sort_List.cpp.s
+
+.PHONY : 148._Sort_List.s
+
+# target to generate assembly for a file
+148._Sort_List.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/148._Sort_List.cpp.s
+.PHONY : 148._Sort_List.cpp.s
+
 152._Maximum_Product_Subarray.o: 152._Maximum_Product_Subarray.cpp.o
 
 .PHONY : 152._Maximum_Product_Subarray.o
@@ -1040,6 +1094,33 @@ untitled/fast:
 152._Maximum_Product_Subarray.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/152._Maximum_Product_Subarray.cpp.s
 .PHONY : 152._Maximum_Product_Subarray.cpp.s
+
+160._Intersection_of_Two_Linked_Lists.o: 160._Intersection_of_Two_Linked_Lists.cpp.o
+
+.PHONY : 160._Intersection_of_Two_Linked_Lists.o
+
+# target to build an object file
+160._Intersection_of_Two_Linked_Lists.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.o
+.PHONY : 160._Intersection_of_Two_Linked_Lists.cpp.o
+
+160._Intersection_of_Two_Linked_Lists.i: 160._Intersection_of_Two_Linked_Lists.cpp.i
+
+.PHONY : 160._Intersection_of_Two_Linked_Lists.i
+
+# target to preprocess a source file
+160._Intersection_of_Two_Linked_Lists.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.i
+.PHONY : 160._Intersection_of_Two_Linked_Lists.cpp.i
+
+160._Intersection_of_Two_Linked_Lists.s: 160._Intersection_of_Two_Linked_Lists.cpp.s
+
+.PHONY : 160._Intersection_of_Two_Linked_Lists.s
+
+# target to generate assembly for a file
+160._Intersection_of_Two_Linked_Lists.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.s
+.PHONY : 160._Intersection_of_Two_Linked_Lists.cpp.s
 
 162._Find_Peak_Element.o: 162._Find_Peak_Element.cpp.o
 
@@ -1202,6 +1283,33 @@ untitled/fast:
 204._Count_Primes.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/204._Count_Primes.cpp.s
 .PHONY : 204._Count_Primes.cpp.s
+
+206._Reverse_Linked_List.o: 206._Reverse_Linked_List.cpp.o
+
+.PHONY : 206._Reverse_Linked_List.o
+
+# target to build an object file
+206._Reverse_Linked_List.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.o
+.PHONY : 206._Reverse_Linked_List.cpp.o
+
+206._Reverse_Linked_List.i: 206._Reverse_Linked_List.cpp.i
+
+.PHONY : 206._Reverse_Linked_List.i
+
+# target to preprocess a source file
+206._Reverse_Linked_List.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.i
+.PHONY : 206._Reverse_Linked_List.cpp.i
+
+206._Reverse_Linked_List.s: 206._Reverse_Linked_List.cpp.s
+
+.PHONY : 206._Reverse_Linked_List.s
+
+# target to generate assembly for a file
+206._Reverse_Linked_List.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.s
+.PHONY : 206._Reverse_Linked_List.cpp.s
 
 217._Contains_Duplicate.o: 217._Contains_Duplicate.cpp.o
 
@@ -1635,9 +1743,18 @@ help:
 	@echo "... 138._Copy_List_with_Random_Pointer.o"
 	@echo "... 138._Copy_List_with_Random_Pointer.i"
 	@echo "... 138._Copy_List_with_Random_Pointer.s"
+	@echo "... 141._Linked_List_Cycle.o"
+	@echo "... 141._Linked_List_Cycle.i"
+	@echo "... 141._Linked_List_Cycle.s"
+	@echo "... 148._Sort_List.o"
+	@echo "... 148._Sort_List.i"
+	@echo "... 148._Sort_List.s"
 	@echo "... 152._Maximum_Product_Subarray.o"
 	@echo "... 152._Maximum_Product_Subarray.i"
 	@echo "... 152._Maximum_Product_Subarray.s"
+	@echo "... 160._Intersection_of_Two_Linked_Lists.o"
+	@echo "... 160._Intersection_of_Two_Linked_Lists.i"
+	@echo "... 160._Intersection_of_Two_Linked_Lists.s"
 	@echo "... 162._Find_Peak_Element.o"
 	@echo "... 162._Find_Peak_Element.i"
 	@echo "... 162._Find_Peak_Element.s"
@@ -1656,6 +1773,9 @@ help:
 	@echo "... 204._Count_Primes.o"
 	@echo "... 204._Count_Primes.i"
 	@echo "... 204._Count_Primes.s"
+	@echo "... 206._Reverse_Linked_List.o"
+	@echo "... 206._Reverse_Linked_List.i"
+	@echo "... 206._Reverse_Linked_List.s"
 	@echo "... 217._Contains_Duplicate.o"
 	@echo "... 217._Contains_Duplicate.i"
 	@echo "... 217._Contains_Duplicate.s"

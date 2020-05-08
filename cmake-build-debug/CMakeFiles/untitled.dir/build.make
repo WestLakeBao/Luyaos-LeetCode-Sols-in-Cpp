@@ -733,6 +733,58 @@ CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/023. Merge k Sorted Lists.cpp" -o CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.s
 
+CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.o: ../141.\ Linked\ List\ Cycle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/141. Linked List Cycle.cpp"
+
+CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/141. Linked List Cycle.cpp" > CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.i
+
+CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/141. Linked List Cycle.cpp" -o CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.s
+
+CMakeFiles/untitled.dir/148._Sort_List.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/148._Sort_List.cpp.o: ../148.\ Sort\ List.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/untitled.dir/148._Sort_List.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/148._Sort_List.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/148. Sort List.cpp"
+
+CMakeFiles/untitled.dir/148._Sort_List.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/148._Sort_List.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/148. Sort List.cpp" > CMakeFiles/untitled.dir/148._Sort_List.cpp.i
+
+CMakeFiles/untitled.dir/148._Sort_List.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/148._Sort_List.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/148. Sort List.cpp" -o CMakeFiles/untitled.dir/148._Sort_List.cpp.s
+
+CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.o: ../160.\ Intersection\ of\ Two\ Linked\ Lists.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/160. Intersection of Two Linked Lists.cpp"
+
+CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/160. Intersection of Two Linked Lists.cpp" > CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.i
+
+CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/160. Intersection of Two Linked Lists.cpp" -o CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.s
+
+CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.o: ../206.\ Reverse\ Linked\ List.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/206. Reverse Linked List.cpp"
+
+CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/206. Reverse Linked List.cpp" > CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.i
+
+CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/206. Reverse Linked List.cpp" -o CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/001._TwoSum.cpp.o" \
@@ -786,7 +838,11 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/454._4Sum_II.cpp.o" \
 "CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.o" \
 "CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.o" \
-"CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o"
+"CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o" \
+"CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.o" \
+"CMakeFiles/untitled.dir/148._Sort_List.cpp.o" \
+"CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.o" \
+"CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -843,9 +899,13 @@ untitled: CMakeFiles/untitled.dir/454._4Sum_II.cpp.o
 untitled: CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.o
 untitled: CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.o
 untitled: CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o
+untitled: CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.o
+untitled: CMakeFiles/untitled.dir/148._Sort_List.cpp.o
+untitled: CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.o
+untitled: CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
