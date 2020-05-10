@@ -204,6 +204,60 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.s
 .PHONY : 003._TheLongestSubstringWithoutRepeatingCharacters.cpp.s
 
+007._Reverse_Integer.o: 007._Reverse_Integer.cpp.o
+
+.PHONY : 007._Reverse_Integer.o
+
+# target to build an object file
+007._Reverse_Integer.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.o
+.PHONY : 007._Reverse_Integer.cpp.o
+
+007._Reverse_Integer.i: 007._Reverse_Integer.cpp.i
+
+.PHONY : 007._Reverse_Integer.i
+
+# target to preprocess a source file
+007._Reverse_Integer.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.i
+.PHONY : 007._Reverse_Integer.cpp.i
+
+007._Reverse_Integer.s: 007._Reverse_Integer.cpp.s
+
+.PHONY : 007._Reverse_Integer.s
+
+# target to generate assembly for a file
+007._Reverse_Integer.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.s
+.PHONY : 007._Reverse_Integer.cpp.s
+
+008._String_to_Integer_(atoi).o: 008._String_to_Integer_(atoi).cpp.o
+
+.PHONY : 008._String_to_Integer_(atoi).o
+
+# target to build an object file
+008._String_to_Integer_(atoi).cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.o"
+.PHONY : 008._String_to_Integer_(atoi).cpp.o
+
+008._String_to_Integer_(atoi).i: 008._String_to_Integer_(atoi).cpp.i
+
+.PHONY : 008._String_to_Integer_(atoi).i
+
+# target to preprocess a source file
+008._String_to_Integer_(atoi).cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.i"
+.PHONY : 008._String_to_Integer_(atoi).cpp.i
+
+008._String_to_Integer_(atoi).s: 008._String_to_Integer_(atoi).cpp.s
+
+.PHONY : 008._String_to_Integer_(atoi).s
+
+# target to generate assembly for a file
+008._String_to_Integer_(atoi).cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.s"
+.PHONY : 008._String_to_Integer_(atoi).cpp.s
+
 011._Container_With_Most_Water.o: 011._Container_With_Most_Water.cpp.o
 
 .PHONY : 011._Container_With_Most_Water.o
@@ -1338,6 +1392,60 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/217._Contains_Duplicate.cpp.s
 .PHONY : 217._Contains_Duplicate.cpp.s
 
+234._Palindrome_Linked_List.o: 234._Palindrome_Linked_List.cpp.o
+
+.PHONY : 234._Palindrome_Linked_List.o
+
+# target to build an object file
+234._Palindrome_Linked_List.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.o
+.PHONY : 234._Palindrome_Linked_List.cpp.o
+
+234._Palindrome_Linked_List.i: 234._Palindrome_Linked_List.cpp.i
+
+.PHONY : 234._Palindrome_Linked_List.i
+
+# target to preprocess a source file
+234._Palindrome_Linked_List.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.i
+.PHONY : 234._Palindrome_Linked_List.cpp.i
+
+234._Palindrome_Linked_List.s: 234._Palindrome_Linked_List.cpp.s
+
+.PHONY : 234._Palindrome_Linked_List.s
+
+# target to generate assembly for a file
+234._Palindrome_Linked_List.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.s
+.PHONY : 234._Palindrome_Linked_List.cpp.s
+
+237._Delete_Node_in_a_Linked_List.o: 237._Delete_Node_in_a_Linked_List.cpp.o
+
+.PHONY : 237._Delete_Node_in_a_Linked_List.o
+
+# target to build an object file
+237._Delete_Node_in_a_Linked_List.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.o
+.PHONY : 237._Delete_Node_in_a_Linked_List.cpp.o
+
+237._Delete_Node_in_a_Linked_List.i: 237._Delete_Node_in_a_Linked_List.cpp.i
+
+.PHONY : 237._Delete_Node_in_a_Linked_List.i
+
+# target to preprocess a source file
+237._Delete_Node_in_a_Linked_List.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.i
+.PHONY : 237._Delete_Node_in_a_Linked_List.cpp.i
+
+237._Delete_Node_in_a_Linked_List.s: 237._Delete_Node_in_a_Linked_List.cpp.s
+
+.PHONY : 237._Delete_Node_in_a_Linked_List.s
+
+# target to generate assembly for a file
+237._Delete_Node_in_a_Linked_List.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.s
+.PHONY : 237._Delete_Node_in_a_Linked_List.cpp.s
+
 238._Product_of_Array_Except_Self.o: 238._Product_of_Array_Except_Self.cpp.o
 
 .PHONY : 238._Product_of_Array_Except_Self.o
@@ -1500,6 +1608,33 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/289._Game_of_Life.cpp.s
 .PHONY : 289._Game_of_Life.cpp.s
 
+328._Odd_Even_Linked_List.o: 328._Odd_Even_Linked_List.cpp.o
+
+.PHONY : 328._Odd_Even_Linked_List.o
+
+# target to build an object file
+328._Odd_Even_Linked_List.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.o
+.PHONY : 328._Odd_Even_Linked_List.cpp.o
+
+328._Odd_Even_Linked_List.i: 328._Odd_Even_Linked_List.cpp.i
+
+.PHONY : 328._Odd_Even_Linked_List.i
+
+# target to preprocess a source file
+328._Odd_Even_Linked_List.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.i
+.PHONY : 328._Odd_Even_Linked_List.cpp.i
+
+328._Odd_Even_Linked_List.s: 328._Odd_Even_Linked_List.cpp.s
+
+.PHONY : 328._Odd_Even_Linked_List.s
+
+# target to generate assembly for a file
+328._Odd_Even_Linked_List.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.s
+.PHONY : 328._Odd_Even_Linked_List.cpp.s
+
 347._Top_K_Frequent_Elements.o: 347._Top_K_Frequent_Elements.cpp.o
 
 .PHONY : 347._Top_K_Frequent_Elements.o
@@ -1653,6 +1788,12 @@ help:
 	@echo "... 003._TheLongestSubstringWithoutRepeatingCharacters.o"
 	@echo "... 003._TheLongestSubstringWithoutRepeatingCharacters.i"
 	@echo "... 003._TheLongestSubstringWithoutRepeatingCharacters.s"
+	@echo "... 007._Reverse_Integer.o"
+	@echo "... 007._Reverse_Integer.i"
+	@echo "... 007._Reverse_Integer.s"
+	@echo "... 008._String_to_Integer_(atoi).o"
+	@echo "... 008._String_to_Integer_(atoi).i"
+	@echo "... 008._String_to_Integer_(atoi).s"
 	@echo "... 011._Container_With_Most_Water.o"
 	@echo "... 011._Container_With_Most_Water.i"
 	@echo "... 011._Container_With_Most_Water.s"
@@ -1779,6 +1920,12 @@ help:
 	@echo "... 217._Contains_Duplicate.o"
 	@echo "... 217._Contains_Duplicate.i"
 	@echo "... 217._Contains_Duplicate.s"
+	@echo "... 234._Palindrome_Linked_List.o"
+	@echo "... 234._Palindrome_Linked_List.i"
+	@echo "... 234._Palindrome_Linked_List.s"
+	@echo "... 237._Delete_Node_in_a_Linked_List.o"
+	@echo "... 237._Delete_Node_in_a_Linked_List.i"
+	@echo "... 237._Delete_Node_in_a_Linked_List.s"
 	@echo "... 238._Product_of_Array_Except_Self.o"
 	@echo "... 238._Product_of_Array_Except_Self.i"
 	@echo "... 238._Product_of_Array_Except_Self.s"
@@ -1797,6 +1944,9 @@ help:
 	@echo "... 289._Game_of_Life.o"
 	@echo "... 289._Game_of_Life.i"
 	@echo "... 289._Game_of_Life.s"
+	@echo "... 328._Odd_Even_Linked_List.o"
+	@echo "... 328._Odd_Even_Linked_List.i"
+	@echo "... 328._Odd_Even_Linked_List.s"
 	@echo "... 347._Top_K_Frequent_Elements.o"
 	@echo "... 347._Top_K_Frequent_Elements.i"
 	@echo "... 347._Top_K_Frequent_Elements.s"

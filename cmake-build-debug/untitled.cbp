@@ -89,6 +89,12 @@
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/003. TheLongestSubstringWithoutRepeatingCharacters.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/007. Reverse Integer.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/008. String to Integer (atoi).cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/011. Container With Most Water.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -215,6 +221,12 @@
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/217. Contains Duplicate.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/234. Palindrome Linked List.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/237. Delete Node in a Linked List.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/238. Product of Array Except Self.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -231,6 +243,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/289. Game of Life.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/328. Odd Even Linked List.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/347. Top K Frequent Elements.cpp">

@@ -785,6 +785,71 @@ CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/206. Reverse Linked List.cpp" -o CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.s
 
+CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.o: ../234.\ Palindrome\ Linked\ List.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/234. Palindrome Linked List.cpp"
+
+CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/234. Palindrome Linked List.cpp" > CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.i
+
+CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/234. Palindrome Linked List.cpp" -o CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.s
+
+CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.o: ../237.\ Delete\ Node\ in\ a\ Linked\ List.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/237. Delete Node in a Linked List.cpp"
+
+CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/237. Delete Node in a Linked List.cpp" > CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.i
+
+CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/237. Delete Node in a Linked List.cpp" -o CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.s
+
+CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.o: ../328.\ Odd\ Even\ Linked\ List.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/328. Odd Even Linked List.cpp"
+
+CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/328. Odd Even Linked List.cpp" > CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.i
+
+CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/328. Odd Even Linked List.cpp" -o CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.s
+
+CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.o: ../008.\ String\ to\ Integer\ (atoi).cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.o" -c "/Users/luyaochen/CLionProjects/untitled/008. String to Integer (atoi).cpp"
+
+CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/008. String to Integer (atoi).cpp" > "CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.i"
+
+CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/008. String to Integer (atoi).cpp" -o "CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.s"
+
+CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.o: ../007.\ Reverse\ Integer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/007. Reverse Integer.cpp"
+
+CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/007. Reverse Integer.cpp" > CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.i
+
+CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/007. Reverse Integer.cpp" -o CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/001._TwoSum.cpp.o" \
@@ -842,7 +907,12 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.o" \
 "CMakeFiles/untitled.dir/148._Sort_List.cpp.o" \
 "CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.o" \
-"CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.o"
+"CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.o" \
+"CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.o" \
+"CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.o" \
+"CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.o" \
+"CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.o" \
+"CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -903,9 +973,14 @@ untitled: CMakeFiles/untitled.dir/141._Linked_List_Cycle.cpp.o
 untitled: CMakeFiles/untitled.dir/148._Sort_List.cpp.o
 untitled: CMakeFiles/untitled.dir/160._Intersection_of_Two_Linked_Lists.cpp.o
 untitled: CMakeFiles/untitled.dir/206._Reverse_Linked_List.cpp.o
+untitled: CMakeFiles/untitled.dir/234._Palindrome_Linked_List.cpp.o
+untitled: CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.o
+untitled: CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.o
+untitled: CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.o
+untitled: CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

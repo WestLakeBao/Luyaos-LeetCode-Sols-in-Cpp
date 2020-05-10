@@ -50,7 +50,7 @@ public:
     }
 };
 
-int main(){
+int main148(){
     Solution solution;
     ListNode node1(4);
     ListNode node2(2);
