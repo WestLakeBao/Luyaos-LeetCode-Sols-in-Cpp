@@ -13,6 +13,8 @@ CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.o: ../008.\ String\ to
 
 CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.o: ../011.\ Container\ With\ Most\ Water.cpp
 
+CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.o: ../013.\ Roman\ to\ Integer.cpp
+
 CMakeFiles/untitled.dir/015._3Sum.cpp.o: ../015.\ 3Sum.cpp
 
 CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.o: ../019.\ Remove\ Nth\ Node\ From\ End\ of\ List.cpp
@@ -22,6 +24,8 @@ CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.o: ../021.\ Merge\ Two\ 
 CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o: ../023.\ Merge\ k\ Sorted\ Lists.cpp
 
 CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.o: ../026.\ Remove\ Duplicates\ from\ Sorted\ Array.cpp
+
+CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.o: ../029.\ Divide\ Two\ Integers.cpp
 
 CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.o: ../033.\ Search\ in\ Rotated\ Sorted\ Array.cpp
 
@@ -35,6 +39,8 @@ CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.o: ../048.\ Rotate\ Image\ .cpp
 
 CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.o: ../049.\ Group\ Anagrams.cpp
 
+CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.o: ../050.\ Pow(x,\ n).cpp
+
 CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.o: ../053.\ Maximum\ Subarray.cpp
 
 CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.o: ../054.\ Spiral\ Matrix.cpp
@@ -46,6 +52,8 @@ CMakeFiles/untitled.dir/056._Merge_Intervals.cpp.o: ../056.\ Merge\ Intervals.cp
 CMakeFiles/untitled.dir/062._Unique_Paths.cpp.o: ../062.\ Unique\ Paths.cpp
 
 CMakeFiles/untitled.dir/066._Plus_One.cpp.o: ../066.\ Plus\ One.cpp
+
+CMakeFiles/untitled.dir/069._Sqrt(x).cpp.o: ../069.\ Sqrt(x).cpp
 
 CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.o: ../073.\ Set\ Matrix\ Zeroes.cpp
 
@@ -85,6 +93,10 @@ CMakeFiles/untitled.dir/166._Fraction_to_Recurring_Decimal.cpp.o: ../166.\ Fract
 
 CMakeFiles/untitled.dir/169._Majority_Element.cpp.o: ../169.\ Majority\ Element.cpp
 
+CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.o: ../171.\ Excel\ Sheet\ Column\ Number.cpp
+
+CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.o: ../172.\ Factorial\ Trailing\ Zeroes.cpp
+
 CMakeFiles/untitled.dir/189._Rotate_Array.cpp.o: ../189.\ Rotate\ Array.cpp
 
 CMakeFiles/untitled.dir/202._Happy_Number.cpp.o: ../202.\ Happy\ Number.cpp
@@ -105,11 +117,15 @@ CMakeFiles/untitled.dir/242._Valid_Anagram.cpp.o: ../242.\ Valid\ Anagram.cpp
 
 CMakeFiles/untitled.dir/268._Missing_Number.cpp.o: ../268.\ Missing\ Number.cpp
 
+CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.o: ../279.\ Perfect\ Squares.cpp
+
 CMakeFiles/untitled.dir/283._Move_Zeroes.cpp.o: ../283.\ Move\ Zeroes.cpp
 
 CMakeFiles/untitled.dir/287._Find_the_Duplicate_Number.cpp.o: ../287.\ Find\ the\ Duplicate\ Number.cpp
 
 CMakeFiles/untitled.dir/289._Game_of_Life.cpp.o: ../289.\ Game\ of\ Life.cpp
+
+CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o: ../326.\ Power\ of\ Three.cpp
 
 CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.o: ../328.\ Odd\ Even\ Linked\ List.cpp
 

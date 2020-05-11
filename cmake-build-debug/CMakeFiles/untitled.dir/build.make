@@ -850,6 +850,110 @@ CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/007. Reverse Integer.cpp" -o CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.s
 
+CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.o: ../013.\ Roman\ to\ Integer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/013. Roman to Integer.cpp"
+
+CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/013. Roman to Integer.cpp" > CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.i
+
+CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/013. Roman to Integer.cpp" -o CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.s
+
+CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.o: ../029.\ Divide\ Two\ Integers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/029. Divide Two Integers.cpp"
+
+CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/029. Divide Two Integers.cpp" > CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.i
+
+CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/029. Divide Two Integers.cpp" -o CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.s
+
+CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.o: ../050.\ Pow(x,\ n).cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.o" -c "/Users/luyaochen/CLionProjects/untitled/050. Pow(x, n).cpp"
+
+CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/050. Pow(x, n).cpp" > "CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.i"
+
+CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/050. Pow(x, n).cpp" -o "CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.s"
+
+CMakeFiles/untitled.dir/069._Sqrt(x).cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/069._Sqrt(x).cpp.o: ../069.\ Sqrt(x).cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/untitled.dir/069._Sqrt(x).cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/untitled.dir/069._Sqrt(x).cpp.o" -c "/Users/luyaochen/CLionProjects/untitled/069. Sqrt(x).cpp"
+
+CMakeFiles/untitled.dir/069._Sqrt(x).cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/069._Sqrt(x).cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/069. Sqrt(x).cpp" > "CMakeFiles/untitled.dir/069._Sqrt(x).cpp.i"
+
+CMakeFiles/untitled.dir/069._Sqrt(x).cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/069._Sqrt(x).cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/069. Sqrt(x).cpp" -o "CMakeFiles/untitled.dir/069._Sqrt(x).cpp.s"
+
+CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.o: ../171.\ Excel\ Sheet\ Column\ Number.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/171. Excel Sheet Column Number.cpp"
+
+CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/171. Excel Sheet Column Number.cpp" > CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.i
+
+CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/171. Excel Sheet Column Number.cpp" -o CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.s
+
+CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.o: ../172.\ Factorial\ Trailing\ Zeroes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/172. Factorial Trailing Zeroes.cpp"
+
+CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/172. Factorial Trailing Zeroes.cpp" > CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.i
+
+CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/172. Factorial Trailing Zeroes.cpp" -o CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.s
+
+CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.o: ../279.\ Perfect\ Squares.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/279. Perfect Squares.cpp"
+
+CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/279. Perfect Squares.cpp" > CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.i
+
+CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/279. Perfect Squares.cpp" -o CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.s
+
+CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o: ../326.\ Power\ of\ Three.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/326. Power of Three.cpp"
+
+CMakeFiles/untitled.dir/326._Power_of_Three.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/326._Power_of_Three.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/326. Power of Three.cpp" > CMakeFiles/untitled.dir/326._Power_of_Three.cpp.i
+
+CMakeFiles/untitled.dir/326._Power_of_Three.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/326._Power_of_Three.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/326. Power of Three.cpp" -o CMakeFiles/untitled.dir/326._Power_of_Three.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/001._TwoSum.cpp.o" \
@@ -912,7 +1016,15 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.o" \
 "CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.o" \
 "CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.o" \
-"CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.o"
+"CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.o" \
+"CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.o" \
+"CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.o" \
+"CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.o" \
+"CMakeFiles/untitled.dir/069._Sqrt(x).cpp.o" \
+"CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.o" \
+"CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.o" \
+"CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.o" \
+"CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -978,9 +1090,17 @@ untitled: CMakeFiles/untitled.dir/237._Delete_Node_in_a_Linked_List.cpp.o
 untitled: CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.o
 untitled: CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.o
 untitled: CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.o
+untitled: CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.o
+untitled: CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.o
+untitled: CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.o
+untitled: CMakeFiles/untitled.dir/069._Sqrt(x).cpp.o
+untitled: CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.o
+untitled: CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.o
+untitled: CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.o
+untitled: CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

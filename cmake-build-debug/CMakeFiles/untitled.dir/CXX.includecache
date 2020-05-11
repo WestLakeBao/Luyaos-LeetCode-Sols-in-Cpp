@@ -6,5 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/luyaochen/CLionProjects/untitled/007. Reverse Integer.cpp
+/Users/luyaochen/CLionProjects/untitled/279. Perfect Squares.cpp
+cmath
+-
+climits
+-
+vector
+-
 

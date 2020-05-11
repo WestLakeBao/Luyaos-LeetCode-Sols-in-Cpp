@@ -13,6 +13,8 @@ CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.o
  /Users/luyaochen/CLionProjects/untitled/008. String to Integer (atoi).cpp
 CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.o
  /Users/luyaochen/CLionProjects/untitled/011. Container With Most Water.cpp
+CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.o
+ /Users/luyaochen/CLionProjects/untitled/013. Roman to Integer.cpp
 CMakeFiles/untitled.dir/015._3Sum.cpp.o
  /Users/luyaochen/CLionProjects/untitled/015. 3Sum.cpp
 CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.o
@@ -23,6 +25,8 @@ CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o
  /Users/luyaochen/CLionProjects/untitled/023. Merge k Sorted Lists.cpp
 CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.o
  /Users/luyaochen/CLionProjects/untitled/026. Remove Duplicates from Sorted Array.cpp
+CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.o
+ /Users/luyaochen/CLionProjects/untitled/029. Divide Two Integers.cpp
 CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.o
  /Users/luyaochen/CLionProjects/untitled/033. Search in Rotated Sorted Array.cpp
 CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o
@@ -35,6 +39,8 @@ CMakeFiles/untitled.dir/048._Rotate_Image_.cpp.o
  /Users/luyaochen/CLionProjects/untitled/048. Rotate Image .cpp
 CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.o
  /Users/luyaochen/CLionProjects/untitled/049. Group Anagrams.cpp
+CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.o
+ /Users/luyaochen/CLionProjects/untitled/050. Pow(x, n).cpp
 CMakeFiles/untitled.dir/053._Maximum_Subarray.cpp.o
  /Users/luyaochen/CLionProjects/untitled/053. Maximum Subarray.cpp
 CMakeFiles/untitled.dir/054._Spiral_Matrix.cpp.o
@@ -47,6 +53,8 @@ CMakeFiles/untitled.dir/062._Unique_Paths.cpp.o
  /Users/luyaochen/CLionProjects/untitled/062. Unique Paths.cpp
 CMakeFiles/untitled.dir/066._Plus_One.cpp.o
  /Users/luyaochen/CLionProjects/untitled/066. Plus One.cpp
+CMakeFiles/untitled.dir/069._Sqrt(x).cpp.o
+ /Users/luyaochen/CLionProjects/untitled/069. Sqrt(x).cpp
 CMakeFiles/untitled.dir/073._Set_Matrix_Zeroes.cpp.o
  /Users/luyaochen/CLionProjects/untitled/073. Set Matrix Zeroes.cpp
 CMakeFiles/untitled.dir/075._Sort_Colors.cpp.o
@@ -85,6 +93,10 @@ CMakeFiles/untitled.dir/166._Fraction_to_Recurring_Decimal.cpp.o
  /Users/luyaochen/CLionProjects/untitled/166. Fraction to Recurring Decimal.cpp
 CMakeFiles/untitled.dir/169._Majority_Element.cpp.o
  /Users/luyaochen/CLionProjects/untitled/169. Majority Element.cpp
+CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.o
+ /Users/luyaochen/CLionProjects/untitled/171. Excel Sheet Column Number.cpp
+CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.o
+ /Users/luyaochen/CLionProjects/untitled/172. Factorial Trailing Zeroes.cpp
 CMakeFiles/untitled.dir/189._Rotate_Array.cpp.o
  /Users/luyaochen/CLionProjects/untitled/189. Rotate Array.cpp
 CMakeFiles/untitled.dir/202._Happy_Number.cpp.o
@@ -105,12 +117,16 @@ CMakeFiles/untitled.dir/242._Valid_Anagram.cpp.o
  /Users/luyaochen/CLionProjects/untitled/242. Valid Anagram.cpp
 CMakeFiles/untitled.dir/268._Missing_Number.cpp.o
  /Users/luyaochen/CLionProjects/untitled/268. Missing Number.cpp
+CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.o
+ /Users/luyaochen/CLionProjects/untitled/279. Perfect Squares.cpp
 CMakeFiles/untitled.dir/283._Move_Zeroes.cpp.o
  /Users/luyaochen/CLionProjects/untitled/283. Move Zeroes.cpp
 CMakeFiles/untitled.dir/287._Find_the_Duplicate_Number.cpp.o
  /Users/luyaochen/CLionProjects/untitled/287. Find the Duplicate Number.cpp
 CMakeFiles/untitled.dir/289._Game_of_Life.cpp.o
  /Users/luyaochen/CLionProjects/untitled/289. Game of Life.cpp
+CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o
+ /Users/luyaochen/CLionProjects/untitled/326. Power of Three.cpp
 CMakeFiles/untitled.dir/328._Odd_Even_Linked_List.cpp.o
  /Users/luyaochen/CLionProjects/untitled/328. Odd Even Linked List.cpp
 CMakeFiles/untitled.dir/347._Top_K_Frequent_Elements.cpp.o

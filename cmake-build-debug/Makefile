@@ -285,6 +285,33 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.s
 .PHONY : 011._Container_With_Most_Water.cpp.s
 
+013._Roman_to_Integer.o: 013._Roman_to_Integer.cpp.o
+
+.PHONY : 013._Roman_to_Integer.o
+
+# target to build an object file
+013._Roman_to_Integer.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.o
+.PHONY : 013._Roman_to_Integer.cpp.o
+
+013._Roman_to_Integer.i: 013._Roman_to_Integer.cpp.i
+
+.PHONY : 013._Roman_to_Integer.i
+
+# target to preprocess a source file
+013._Roman_to_Integer.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.i
+.PHONY : 013._Roman_to_Integer.cpp.i
+
+013._Roman_to_Integer.s: 013._Roman_to_Integer.cpp.s
+
+.PHONY : 013._Roman_to_Integer.s
+
+# target to generate assembly for a file
+013._Roman_to_Integer.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.s
+.PHONY : 013._Roman_to_Integer.cpp.s
+
 015._3Sum.o: 015._3Sum.cpp.o
 
 .PHONY : 015._3Sum.o
@@ -419,6 +446,33 @@ untitled/fast:
 026._Remove_Duplicates_from_Sorted_Array.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.s
 .PHONY : 026._Remove_Duplicates_from_Sorted_Array.cpp.s
+
+029._Divide_Two_Integers.o: 029._Divide_Two_Integers.cpp.o
+
+.PHONY : 029._Divide_Two_Integers.o
+
+# target to build an object file
+029._Divide_Two_Integers.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.o
+.PHONY : 029._Divide_Two_Integers.cpp.o
+
+029._Divide_Two_Integers.i: 029._Divide_Two_Integers.cpp.i
+
+.PHONY : 029._Divide_Two_Integers.i
+
+# target to preprocess a source file
+029._Divide_Two_Integers.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.i
+.PHONY : 029._Divide_Two_Integers.cpp.i
+
+029._Divide_Two_Integers.s: 029._Divide_Two_Integers.cpp.s
+
+.PHONY : 029._Divide_Two_Integers.s
+
+# target to generate assembly for a file
+029._Divide_Two_Integers.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.s
+.PHONY : 029._Divide_Two_Integers.cpp.s
 
 033._Search_in_Rotated_Sorted_Array.o: 033._Search_in_Rotated_Sorted_Array.cpp.o
 
@@ -582,6 +636,33 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/049._Group_Anagrams.cpp.s
 .PHONY : 049._Group_Anagrams.cpp.s
 
+050._Pow(x,_n).o: 050._Pow(x,_n).cpp.o
+
+.PHONY : 050._Pow(x,_n).o
+
+# target to build an object file
+050._Pow(x,_n).cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.o"
+.PHONY : 050._Pow(x,_n).cpp.o
+
+050._Pow(x,_n).i: 050._Pow(x,_n).cpp.i
+
+.PHONY : 050._Pow(x,_n).i
+
+# target to preprocess a source file
+050._Pow(x,_n).cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.i"
+.PHONY : 050._Pow(x,_n).cpp.i
+
+050._Pow(x,_n).s: 050._Pow(x,_n).cpp.s
+
+.PHONY : 050._Pow(x,_n).s
+
+# target to generate assembly for a file
+050._Pow(x,_n).cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/050._Pow(x,_n).cpp.s"
+.PHONY : 050._Pow(x,_n).cpp.s
+
 053._Maximum_Subarray.o: 053._Maximum_Subarray.cpp.o
 
 .PHONY : 053._Maximum_Subarray.o
@@ -743,6 +824,33 @@ untitled/fast:
 066._Plus_One.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/066._Plus_One.cpp.s
 .PHONY : 066._Plus_One.cpp.s
+
+069._Sqrt(x).o: 069._Sqrt(x).cpp.o
+
+.PHONY : 069._Sqrt(x).o
+
+# target to build an object file
+069._Sqrt(x).cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/069._Sqrt(x).cpp.o"
+.PHONY : 069._Sqrt(x).cpp.o
+
+069._Sqrt(x).i: 069._Sqrt(x).cpp.i
+
+.PHONY : 069._Sqrt(x).i
+
+# target to preprocess a source file
+069._Sqrt(x).cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/069._Sqrt(x).cpp.i"
+.PHONY : 069._Sqrt(x).cpp.i
+
+069._Sqrt(x).s: 069._Sqrt(x).cpp.s
+
+.PHONY : 069._Sqrt(x).s
+
+# target to generate assembly for a file
+069._Sqrt(x).cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/069._Sqrt(x).cpp.s"
+.PHONY : 069._Sqrt(x).cpp.s
 
 073._Set_Matrix_Zeroes.o: 073._Set_Matrix_Zeroes.cpp.o
 
@@ -1257,6 +1365,60 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/169._Majority_Element.cpp.s
 .PHONY : 169._Majority_Element.cpp.s
 
+171._Excel_Sheet_Column_Number.o: 171._Excel_Sheet_Column_Number.cpp.o
+
+.PHONY : 171._Excel_Sheet_Column_Number.o
+
+# target to build an object file
+171._Excel_Sheet_Column_Number.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.o
+.PHONY : 171._Excel_Sheet_Column_Number.cpp.o
+
+171._Excel_Sheet_Column_Number.i: 171._Excel_Sheet_Column_Number.cpp.i
+
+.PHONY : 171._Excel_Sheet_Column_Number.i
+
+# target to preprocess a source file
+171._Excel_Sheet_Column_Number.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.i
+.PHONY : 171._Excel_Sheet_Column_Number.cpp.i
+
+171._Excel_Sheet_Column_Number.s: 171._Excel_Sheet_Column_Number.cpp.s
+
+.PHONY : 171._Excel_Sheet_Column_Number.s
+
+# target to generate assembly for a file
+171._Excel_Sheet_Column_Number.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.s
+.PHONY : 171._Excel_Sheet_Column_Number.cpp.s
+
+172._Factorial_Trailing_Zeroes.o: 172._Factorial_Trailing_Zeroes.cpp.o
+
+.PHONY : 172._Factorial_Trailing_Zeroes.o
+
+# target to build an object file
+172._Factorial_Trailing_Zeroes.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.o
+.PHONY : 172._Factorial_Trailing_Zeroes.cpp.o
+
+172._Factorial_Trailing_Zeroes.i: 172._Factorial_Trailing_Zeroes.cpp.i
+
+.PHONY : 172._Factorial_Trailing_Zeroes.i
+
+# target to preprocess a source file
+172._Factorial_Trailing_Zeroes.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.i
+.PHONY : 172._Factorial_Trailing_Zeroes.cpp.i
+
+172._Factorial_Trailing_Zeroes.s: 172._Factorial_Trailing_Zeroes.cpp.s
+
+.PHONY : 172._Factorial_Trailing_Zeroes.s
+
+# target to generate assembly for a file
+172._Factorial_Trailing_Zeroes.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.s
+.PHONY : 172._Factorial_Trailing_Zeroes.cpp.s
+
 189._Rotate_Array.o: 189._Rotate_Array.cpp.o
 
 .PHONY : 189._Rotate_Array.o
@@ -1527,6 +1689,33 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/268._Missing_Number.cpp.s
 .PHONY : 268._Missing_Number.cpp.s
 
+279._Perfect_Squares.o: 279._Perfect_Squares.cpp.o
+
+.PHONY : 279._Perfect_Squares.o
+
+# target to build an object file
+279._Perfect_Squares.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.o
+.PHONY : 279._Perfect_Squares.cpp.o
+
+279._Perfect_Squares.i: 279._Perfect_Squares.cpp.i
+
+.PHONY : 279._Perfect_Squares.i
+
+# target to preprocess a source file
+279._Perfect_Squares.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.i
+.PHONY : 279._Perfect_Squares.cpp.i
+
+279._Perfect_Squares.s: 279._Perfect_Squares.cpp.s
+
+.PHONY : 279._Perfect_Squares.s
+
+# target to generate assembly for a file
+279._Perfect_Squares.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.s
+.PHONY : 279._Perfect_Squares.cpp.s
+
 283._Move_Zeroes.o: 283._Move_Zeroes.cpp.o
 
 .PHONY : 283._Move_Zeroes.o
@@ -1607,6 +1796,33 @@ untitled/fast:
 289._Game_of_Life.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/289._Game_of_Life.cpp.s
 .PHONY : 289._Game_of_Life.cpp.s
+
+326._Power_of_Three.o: 326._Power_of_Three.cpp.o
+
+.PHONY : 326._Power_of_Three.o
+
+# target to build an object file
+326._Power_of_Three.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o
+.PHONY : 326._Power_of_Three.cpp.o
+
+326._Power_of_Three.i: 326._Power_of_Three.cpp.i
+
+.PHONY : 326._Power_of_Three.i
+
+# target to preprocess a source file
+326._Power_of_Three.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/326._Power_of_Three.cpp.i
+.PHONY : 326._Power_of_Three.cpp.i
+
+326._Power_of_Three.s: 326._Power_of_Three.cpp.s
+
+.PHONY : 326._Power_of_Three.s
+
+# target to generate assembly for a file
+326._Power_of_Three.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/326._Power_of_Three.cpp.s
+.PHONY : 326._Power_of_Three.cpp.s
 
 328._Odd_Even_Linked_List.o: 328._Odd_Even_Linked_List.cpp.o
 
@@ -1797,6 +2013,9 @@ help:
 	@echo "... 011._Container_With_Most_Water.o"
 	@echo "... 011._Container_With_Most_Water.i"
 	@echo "... 011._Container_With_Most_Water.s"
+	@echo "... 013._Roman_to_Integer.o"
+	@echo "... 013._Roman_to_Integer.i"
+	@echo "... 013._Roman_to_Integer.s"
 	@echo "... 015._3Sum.o"
 	@echo "... 015._3Sum.i"
 	@echo "... 015._3Sum.s"
@@ -1812,6 +2031,9 @@ help:
 	@echo "... 026._Remove_Duplicates_from_Sorted_Array.o"
 	@echo "... 026._Remove_Duplicates_from_Sorted_Array.i"
 	@echo "... 026._Remove_Duplicates_from_Sorted_Array.s"
+	@echo "... 029._Divide_Two_Integers.o"
+	@echo "... 029._Divide_Two_Integers.i"
+	@echo "... 029._Divide_Two_Integers.s"
 	@echo "... 033._Search_in_Rotated_Sorted_Array.o"
 	@echo "... 033._Search_in_Rotated_Sorted_Array.i"
 	@echo "... 033._Search_in_Rotated_Sorted_Array.s"
@@ -1830,6 +2052,9 @@ help:
 	@echo "... 049._Group_Anagrams.o"
 	@echo "... 049._Group_Anagrams.i"
 	@echo "... 049._Group_Anagrams.s"
+	@echo "... 050._Pow(x,_n).o"
+	@echo "... 050._Pow(x,_n).i"
+	@echo "... 050._Pow(x,_n).s"
 	@echo "... 053._Maximum_Subarray.o"
 	@echo "... 053._Maximum_Subarray.i"
 	@echo "... 053._Maximum_Subarray.s"
@@ -1848,6 +2073,9 @@ help:
 	@echo "... 066._Plus_One.o"
 	@echo "... 066._Plus_One.i"
 	@echo "... 066._Plus_One.s"
+	@echo "... 069._Sqrt(x).o"
+	@echo "... 069._Sqrt(x).i"
+	@echo "... 069._Sqrt(x).s"
 	@echo "... 073._Set_Matrix_Zeroes.o"
 	@echo "... 073._Set_Matrix_Zeroes.i"
 	@echo "... 073._Set_Matrix_Zeroes.s"
@@ -1905,6 +2133,12 @@ help:
 	@echo "... 169._Majority_Element.o"
 	@echo "... 169._Majority_Element.i"
 	@echo "... 169._Majority_Element.s"
+	@echo "... 171._Excel_Sheet_Column_Number.o"
+	@echo "... 171._Excel_Sheet_Column_Number.i"
+	@echo "... 171._Excel_Sheet_Column_Number.s"
+	@echo "... 172._Factorial_Trailing_Zeroes.o"
+	@echo "... 172._Factorial_Trailing_Zeroes.i"
+	@echo "... 172._Factorial_Trailing_Zeroes.s"
 	@echo "... 189._Rotate_Array.o"
 	@echo "... 189._Rotate_Array.i"
 	@echo "... 189._Rotate_Array.s"
@@ -1935,6 +2169,9 @@ help:
 	@echo "... 268._Missing_Number.o"
 	@echo "... 268._Missing_Number.i"
 	@echo "... 268._Missing_Number.s"
+	@echo "... 279._Perfect_Squares.o"
+	@echo "... 279._Perfect_Squares.i"
+	@echo "... 279._Perfect_Squares.s"
 	@echo "... 283._Move_Zeroes.o"
 	@echo "... 283._Move_Zeroes.i"
 	@echo "... 283._Move_Zeroes.s"
@@ -1944,6 +2181,9 @@ help:
 	@echo "... 289._Game_of_Life.o"
 	@echo "... 289._Game_of_Life.i"
 	@echo "... 289._Game_of_Life.s"
+	@echo "... 326._Power_of_Three.o"
+	@echo "... 326._Power_of_Three.i"
+	@echo "... 326._Power_of_Three.s"
 	@echo "... 328._Odd_Even_Linked_List.o"
 	@echo "... 328._Odd_Even_Linked_List.i"
 	@echo "... 328._Odd_Even_Linked_List.s"

@@ -98,6 +98,9 @@
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/011. Container With Most Water.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/013. Roman to Integer.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/015. 3Sum.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -111,6 +114,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/026. Remove Duplicates from Sorted Array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/029. Divide Two Integers.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/033. Search in Rotated Sorted Array.cpp">
@@ -131,6 +137,9 @@
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/049. Group Anagrams.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/050. Pow(x, n).cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/053. Maximum Subarray.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -147,6 +156,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/066. Plus One.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/069. Sqrt(x).cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/073. Set Matrix Zeroes.cpp">
@@ -206,6 +218,12 @@
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/169. Majority Element.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/171. Excel Sheet Column Number.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/172. Factorial Trailing Zeroes.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/189. Rotate Array.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -236,6 +254,9 @@
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/268. Missing Number.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/279. Perfect Squares.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/283. Move Zeroes.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -243,6 +264,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/289. Game of Life.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/326. Power of Three.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/328. Odd Even Linked List.cpp">
