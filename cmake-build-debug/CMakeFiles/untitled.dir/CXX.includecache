@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/luyaochen/CLionProjects/untitled/279. Perfect Squares.cpp
-cmath
--
-climits
--
-vector
+/Users/luyaochen/CLionProjects/untitled/125. Valid Palindrome.cpp
+string
 -
 

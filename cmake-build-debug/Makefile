@@ -447,6 +447,33 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.s
 .PHONY : 026._Remove_Duplicates_from_Sorted_Array.cpp.s
 
+028._Implement_strStr().o: 028._Implement_strStr().cpp.o
+
+.PHONY : 028._Implement_strStr().o
+
+# target to build an object file
+028._Implement_strStr().cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/028._Implement_strStr().cpp.o"
+.PHONY : 028._Implement_strStr().cpp.o
+
+028._Implement_strStr().i: 028._Implement_strStr().cpp.i
+
+.PHONY : 028._Implement_strStr().i
+
+# target to preprocess a source file
+028._Implement_strStr().cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/028._Implement_strStr().cpp.i"
+.PHONY : 028._Implement_strStr().cpp.i
+
+028._Implement_strStr().s: 028._Implement_strStr().cpp.s
+
+.PHONY : 028._Implement_strStr().s
+
+# target to generate assembly for a file
+028._Implement_strStr().cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/028._Implement_strStr().cpp.s"
+.PHONY : 028._Implement_strStr().cpp.s
+
 029._Divide_Two_Integers.o: 029._Divide_Two_Integers.cpp.o
 
 .PHONY : 029._Divide_Two_Integers.o
@@ -1121,6 +1148,33 @@ untitled/fast:
 122._Best_Time_to_Buy_and_Sell_Stock_II.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/122._Best_Time_to_Buy_and_Sell_Stock_II.cpp.s
 .PHONY : 122._Best_Time_to_Buy_and_Sell_Stock_II.cpp.s
+
+125._Valid_Palindrome.o: 125._Valid_Palindrome.cpp.o
+
+.PHONY : 125._Valid_Palindrome.o
+
+# target to build an object file
+125._Valid_Palindrome.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.o
+.PHONY : 125._Valid_Palindrome.cpp.o
+
+125._Valid_Palindrome.i: 125._Valid_Palindrome.cpp.i
+
+.PHONY : 125._Valid_Palindrome.i
+
+# target to preprocess a source file
+125._Valid_Palindrome.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.i
+.PHONY : 125._Valid_Palindrome.cpp.i
+
+125._Valid_Palindrome.s: 125._Valid_Palindrome.cpp.s
+
+.PHONY : 125._Valid_Palindrome.s
+
+# target to generate assembly for a file
+125._Valid_Palindrome.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.s
+.PHONY : 125._Valid_Palindrome.cpp.s
 
 136._Single_Number.o: 136._Single_Number.cpp.o
 
@@ -2031,6 +2085,9 @@ help:
 	@echo "... 026._Remove_Duplicates_from_Sorted_Array.o"
 	@echo "... 026._Remove_Duplicates_from_Sorted_Array.i"
 	@echo "... 026._Remove_Duplicates_from_Sorted_Array.s"
+	@echo "... 028._Implement_strStr().o"
+	@echo "... 028._Implement_strStr().i"
+	@echo "... 028._Implement_strStr().s"
 	@echo "... 029._Divide_Two_Integers.o"
 	@echo "... 029._Divide_Two_Integers.i"
 	@echo "... 029._Divide_Two_Integers.s"
@@ -2106,6 +2163,9 @@ help:
 	@echo "... 122._Best_Time_to_Buy_and_Sell_Stock_II.o"
 	@echo "... 122._Best_Time_to_Buy_and_Sell_Stock_II.i"
 	@echo "... 122._Best_Time_to_Buy_and_Sell_Stock_II.s"
+	@echo "... 125._Valid_Palindrome.o"
+	@echo "... 125._Valid_Palindrome.i"
+	@echo "... 125._Valid_Palindrome.s"
 	@echo "... 136._Single_Number.o"
 	@echo "... 136._Single_Number.i"
 	@echo "... 136._Single_Number.s"

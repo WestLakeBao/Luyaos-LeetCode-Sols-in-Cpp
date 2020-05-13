@@ -954,6 +954,32 @@ CMakeFiles/untitled.dir/326._Power_of_Three.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/326._Power_of_Three.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/326. Power of Three.cpp" -o CMakeFiles/untitled.dir/326._Power_of_Three.cpp.s
 
+CMakeFiles/untitled.dir/028._Implement_strStr().cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/028._Implement_strStr().cpp.o: ../028.\ Implement\ strStr().cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/untitled.dir/028._Implement_strStr().cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/untitled.dir/028._Implement_strStr().cpp.o" -c "/Users/luyaochen/CLionProjects/untitled/028. Implement strStr().cpp"
+
+CMakeFiles/untitled.dir/028._Implement_strStr().cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/028._Implement_strStr().cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/028. Implement strStr().cpp" > "CMakeFiles/untitled.dir/028._Implement_strStr().cpp.i"
+
+CMakeFiles/untitled.dir/028._Implement_strStr().cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/028._Implement_strStr().cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/028. Implement strStr().cpp" -o "CMakeFiles/untitled.dir/028._Implement_strStr().cpp.s"
+
+CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.o: ../125.\ Valid\ Palindrome.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/125. Valid Palindrome.cpp"
+
+CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/125. Valid Palindrome.cpp" > CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.i
+
+CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/125. Valid Palindrome.cpp" -o CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/001._TwoSum.cpp.o" \
@@ -1024,7 +1050,9 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.o" \
 "CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.o" \
 "CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.o" \
-"CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o"
+"CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o" \
+"CMakeFiles/untitled.dir/028._Implement_strStr().cpp.o" \
+"CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -1098,9 +1126,11 @@ untitled: CMakeFiles/untitled.dir/171._Excel_Sheet_Column_Number.cpp.o
 untitled: CMakeFiles/untitled.dir/172._Factorial_Trailing_Zeroes.cpp.o
 untitled: CMakeFiles/untitled.dir/279._Perfect_Squares.cpp.o
 untitled: CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o
+untitled: CMakeFiles/untitled.dir/028._Implement_strStr().cpp.o
+untitled: CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

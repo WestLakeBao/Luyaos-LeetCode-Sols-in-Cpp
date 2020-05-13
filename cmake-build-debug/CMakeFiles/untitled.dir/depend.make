@@ -25,6 +25,8 @@ CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o: ../023.\ Merge\ k\ Sort
 
 CMakeFiles/untitled.dir/026._Remove_Duplicates_from_Sorted_Array.cpp.o: ../026.\ Remove\ Duplicates\ from\ Sorted\ Array.cpp
 
+CMakeFiles/untitled.dir/028._Implement_strStr().cpp.o: ../028.\ Implement\ strStr().cpp
+
 CMakeFiles/untitled.dir/029._Divide_Two_Integers.cpp.o: ../029.\ Divide\ Two\ Integers.cpp
 
 CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.o: ../033.\ Search\ in\ Rotated\ Sorted\ Array.cpp
@@ -74,6 +76,8 @@ CMakeFiles/untitled.dir/118._Pascal's_Triangle.cpp.o: ../118.\ Pascal's\ Triangl
 CMakeFiles/untitled.dir/121._Best_Time_to_Buy_and_Sell_Stock.cpp.o: ../121.\ Best\ Time\ to\ Buy\ and\ Sell\ Stock.cpp
 
 CMakeFiles/untitled.dir/122._Best_Time_to_Buy_and_Sell_Stock_II.cpp.o: ../122.\ Best\ Time\ to\ Buy\ and\ Sell\ Stock\ II.cpp
+
+CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.o: ../125.\ Valid\ Palindrome.cpp
 
 CMakeFiles/untitled.dir/136._Single_Number.cpp.o: ../136.\ Single\ Number.cpp
 
