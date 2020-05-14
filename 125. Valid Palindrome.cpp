@@ -22,7 +22,7 @@ public:
     }
 };
 
-int main(){
+int main125(){
     Solution solution;
     //string s=".,";
     string s="0P";
