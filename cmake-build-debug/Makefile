@@ -204,6 +204,33 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.s
 .PHONY : 003._TheLongestSubstringWithoutRepeatingCharacters.cpp.s
 
+005._Longest_Palindromic_Substring.o: 005._Longest_Palindromic_Substring.cpp.o
+
+.PHONY : 005._Longest_Palindromic_Substring.o
+
+# target to build an object file
+005._Longest_Palindromic_Substring.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.o
+.PHONY : 005._Longest_Palindromic_Substring.cpp.o
+
+005._Longest_Palindromic_Substring.i: 005._Longest_Palindromic_Substring.cpp.i
+
+.PHONY : 005._Longest_Palindromic_Substring.i
+
+# target to preprocess a source file
+005._Longest_Palindromic_Substring.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.i
+.PHONY : 005._Longest_Palindromic_Substring.cpp.i
+
+005._Longest_Palindromic_Substring.s: 005._Longest_Palindromic_Substring.cpp.s
+
+.PHONY : 005._Longest_Palindromic_Substring.s
+
+# target to generate assembly for a file
+005._Longest_Palindromic_Substring.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.s
+.PHONY : 005._Longest_Palindromic_Substring.cpp.s
+
 007._Reverse_Integer.o: 007._Reverse_Integer.cpp.o
 
 .PHONY : 007._Reverse_Integer.o
@@ -257,6 +284,33 @@ untitled/fast:
 008._String_to_Integer_(atoi).cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make "CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.s"
 .PHONY : 008._String_to_Integer_(atoi).cpp.s
+
+010._Regular_Expression_Matching.o: 010._Regular_Expression_Matching.cpp.o
+
+.PHONY : 010._Regular_Expression_Matching.o
+
+# target to build an object file
+010._Regular_Expression_Matching.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.o
+.PHONY : 010._Regular_Expression_Matching.cpp.o
+
+010._Regular_Expression_Matching.i: 010._Regular_Expression_Matching.cpp.i
+
+.PHONY : 010._Regular_Expression_Matching.i
+
+# target to preprocess a source file
+010._Regular_Expression_Matching.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.i
+.PHONY : 010._Regular_Expression_Matching.cpp.i
+
+010._Regular_Expression_Matching.s: 010._Regular_Expression_Matching.cpp.s
+
+.PHONY : 010._Regular_Expression_Matching.s
+
+# target to generate assembly for a file
+010._Regular_Expression_Matching.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.s
+.PHONY : 010._Regular_Expression_Matching.cpp.s
 
 011._Container_With_Most_Water.o: 011._Container_With_Most_Water.cpp.o
 
@@ -312,6 +366,33 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.s
 .PHONY : 013._Roman_to_Integer.cpp.s
 
+014._Longest_Common_Prefix.o: 014._Longest_Common_Prefix.cpp.o
+
+.PHONY : 014._Longest_Common_Prefix.o
+
+# target to build an object file
+014._Longest_Common_Prefix.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.o
+.PHONY : 014._Longest_Common_Prefix.cpp.o
+
+014._Longest_Common_Prefix.i: 014._Longest_Common_Prefix.cpp.i
+
+.PHONY : 014._Longest_Common_Prefix.i
+
+# target to preprocess a source file
+014._Longest_Common_Prefix.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.i
+.PHONY : 014._Longest_Common_Prefix.cpp.i
+
+014._Longest_Common_Prefix.s: 014._Longest_Common_Prefix.cpp.s
+
+.PHONY : 014._Longest_Common_Prefix.s
+
+# target to generate assembly for a file
+014._Longest_Common_Prefix.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.s
+.PHONY : 014._Longest_Common_Prefix.cpp.s
+
 015._3Sum.o: 015._3Sum.cpp.o
 
 .PHONY : 015._3Sum.o
@@ -338,6 +419,33 @@ untitled/fast:
 015._3Sum.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/015._3Sum.cpp.s
 .PHONY : 015._3Sum.cpp.s
+
+017._Letter_Combinations_of_a_Phone_Number.o: 017._Letter_Combinations_of_a_Phone_Number.cpp.o
+
+.PHONY : 017._Letter_Combinations_of_a_Phone_Number.o
+
+# target to build an object file
+017._Letter_Combinations_of_a_Phone_Number.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o
+.PHONY : 017._Letter_Combinations_of_a_Phone_Number.cpp.o
+
+017._Letter_Combinations_of_a_Phone_Number.i: 017._Letter_Combinations_of_a_Phone_Number.cpp.i
+
+.PHONY : 017._Letter_Combinations_of_a_Phone_Number.i
+
+# target to preprocess a source file
+017._Letter_Combinations_of_a_Phone_Number.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.i
+.PHONY : 017._Letter_Combinations_of_a_Phone_Number.cpp.i
+
+017._Letter_Combinations_of_a_Phone_Number.s: 017._Letter_Combinations_of_a_Phone_Number.cpp.s
+
+.PHONY : 017._Letter_Combinations_of_a_Phone_Number.s
+
+# target to generate assembly for a file
+017._Letter_Combinations_of_a_Phone_Number.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.s
+.PHONY : 017._Letter_Combinations_of_a_Phone_Number.cpp.s
 
 019._Remove_Nth_Node_From_End_of_List.o: 019._Remove_Nth_Node_From_End_of_List.cpp.o
 
@@ -2085,21 +2193,33 @@ help:
 	@echo "... 003._TheLongestSubstringWithoutRepeatingCharacters.o"
 	@echo "... 003._TheLongestSubstringWithoutRepeatingCharacters.i"
 	@echo "... 003._TheLongestSubstringWithoutRepeatingCharacters.s"
+	@echo "... 005._Longest_Palindromic_Substring.o"
+	@echo "... 005._Longest_Palindromic_Substring.i"
+	@echo "... 005._Longest_Palindromic_Substring.s"
 	@echo "... 007._Reverse_Integer.o"
 	@echo "... 007._Reverse_Integer.i"
 	@echo "... 007._Reverse_Integer.s"
 	@echo "... 008._String_to_Integer_(atoi).o"
 	@echo "... 008._String_to_Integer_(atoi).i"
 	@echo "... 008._String_to_Integer_(atoi).s"
+	@echo "... 010._Regular_Expression_Matching.o"
+	@echo "... 010._Regular_Expression_Matching.i"
+	@echo "... 010._Regular_Expression_Matching.s"
 	@echo "... 011._Container_With_Most_Water.o"
 	@echo "... 011._Container_With_Most_Water.i"
 	@echo "... 011._Container_With_Most_Water.s"
 	@echo "... 013._Roman_to_Integer.o"
 	@echo "... 013._Roman_to_Integer.i"
 	@echo "... 013._Roman_to_Integer.s"
+	@echo "... 014._Longest_Common_Prefix.o"
+	@echo "... 014._Longest_Common_Prefix.i"
+	@echo "... 014._Longest_Common_Prefix.s"
 	@echo "... 015._3Sum.o"
 	@echo "... 015._3Sum.i"
 	@echo "... 015._3Sum.s"
+	@echo "... 017._Letter_Combinations_of_a_Phone_Number.o"
+	@echo "... 017._Letter_Combinations_of_a_Phone_Number.i"
+	@echo "... 017._Letter_Combinations_of_a_Phone_Number.s"
 	@echo "... 019._Remove_Nth_Node_From_End_of_List.o"
 	@echo "... 019._Remove_Nth_Node_From_End_of_List.i"
 	@echo "... 019._Remove_Nth_Node_From_End_of_List.s"

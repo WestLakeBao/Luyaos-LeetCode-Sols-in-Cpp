@@ -7,15 +7,23 @@ CMakeFiles/untitled.dir/002._AddTwoNumbers.cpp.o: ../002.\ AddTwoNumbers.cpp
 
 CMakeFiles/untitled.dir/003._TheLongestSubstringWithoutRepeatingCharacters.cpp.o: ../003.\ TheLongestSubstringWithoutRepeatingCharacters.cpp
 
+CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.o: ../005.\ Longest\ Palindromic\ Substring.cpp
+
 CMakeFiles/untitled.dir/007._Reverse_Integer.cpp.o: ../007.\ Reverse\ Integer.cpp
 
 CMakeFiles/untitled.dir/008._String_to_Integer_(atoi).cpp.o: ../008.\ String\ to\ Integer\ (atoi).cpp
+
+CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.o: ../010.\ Regular\ Expression\ Matching.cpp
 
 CMakeFiles/untitled.dir/011._Container_With_Most_Water.cpp.o: ../011.\ Container\ With\ Most\ Water.cpp
 
 CMakeFiles/untitled.dir/013._Roman_to_Integer.cpp.o: ../013.\ Roman\ to\ Integer.cpp
 
+CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.o: ../014.\ Longest\ Common\ Prefix.cpp
+
 CMakeFiles/untitled.dir/015._3Sum.cpp.o: ../015.\ 3Sum.cpp
+
+CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o: ../017.\ Letter\ Combinations\ of\ a\ Phone\ Number.cpp
 
 CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.o: ../019.\ Remove\ Nth\ Node\ From\ End\ of\ List.cpp
 

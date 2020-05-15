@@ -39,7 +39,7 @@ public:
     }
 };
 
-int main(){
+int main350(){
     vector<int> nums1={1,2,2,1};
     vector<int> nums2={2,2};
     Solution solution;

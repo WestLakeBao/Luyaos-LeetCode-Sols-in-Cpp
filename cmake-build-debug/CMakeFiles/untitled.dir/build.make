@@ -993,6 +993,58 @@ CMakeFiles/untitled.dir/344._Reverse_String.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/344._Reverse_String.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/344. Reverse String.cpp" -o CMakeFiles/untitled.dir/344._Reverse_String.cpp.s
 
+CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.o: ../005.\ Longest\ Palindromic\ Substring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/005. Longest Palindromic Substring.cpp"
+
+CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/005. Longest Palindromic Substring.cpp" > CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.i
+
+CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/005. Longest Palindromic Substring.cpp" -o CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.s
+
+CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.o: ../010.\ Regular\ Expression\ Matching.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/010. Regular Expression Matching.cpp"
+
+CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/010. Regular Expression Matching.cpp" > CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.i
+
+CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/010. Regular Expression Matching.cpp" -o CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.s
+
+CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.o: ../014.\ Longest\ Common\ Prefix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/014. Longest Common Prefix.cpp"
+
+CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/014. Longest Common Prefix.cpp" > CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.i
+
+CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/014. Longest Common Prefix.cpp" -o CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.s
+
+CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o: ../017.\ Letter\ Combinations\ of\ a\ Phone\ Number.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/017. Letter Combinations of a Phone Number.cpp"
+
+CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/017. Letter Combinations of a Phone Number.cpp" > CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.i
+
+CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/017. Letter Combinations of a Phone Number.cpp" -o CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/001._TwoSum.cpp.o" \
@@ -1066,7 +1118,11 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o" \
 "CMakeFiles/untitled.dir/028._Implement_strStr().cpp.o" \
 "CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.o" \
-"CMakeFiles/untitled.dir/344._Reverse_String.cpp.o"
+"CMakeFiles/untitled.dir/344._Reverse_String.cpp.o" \
+"CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.o" \
+"CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.o" \
+"CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.o" \
+"CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -1143,9 +1199,13 @@ untitled: CMakeFiles/untitled.dir/326._Power_of_Three.cpp.o
 untitled: CMakeFiles/untitled.dir/028._Implement_strStr().cpp.o
 untitled: CMakeFiles/untitled.dir/125._Valid_Palindrome.cpp.o
 untitled: CMakeFiles/untitled.dir/344._Reverse_String.cpp.o
+untitled: CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.o
+untitled: CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.o
+untitled: CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.o
+untitled: CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -89,10 +89,16 @@
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/003. TheLongestSubstringWithoutRepeatingCharacters.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/005. Longest Palindromic Substring.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/007. Reverse Integer.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/008. String to Integer (atoi).cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/010. Regular Expression Matching.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/011. Container With Most Water.cpp">
@@ -101,7 +107,13 @@
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/013. Roman to Integer.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/014. Longest Common Prefix.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/015. 3Sum.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/017. Letter Combinations of a Phone Number.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/019. Remove Nth Node From End of List.cpp">
