@@ -27,7 +27,11 @@ CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o: ../017
 
 CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.o: ../019.\ Remove\ Nth\ Node\ From\ End\ of\ List.cpp
 
+CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.o: ../020.\ Valid\ Parentheses.cpp
+
 CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.o: ../021.\ Merge\ Two\ Sorted\ Lists.cpp
+
+CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.o: ../022.\ Generate\ Parentheses.cpp
 
 CMakeFiles/untitled.dir/023._Merge_k_Sorted_Lists.cpp.o: ../023.\ Merge\ k\ Sorted\ Lists.cpp
 
@@ -42,6 +46,8 @@ CMakeFiles/untitled.dir/033._Search_in_Rotated_Sorted_Array.cpp.o: ../033.\ Sear
 CMakeFiles/untitled.dir/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp.o: ../034.\ Find\ First\ and\ Last\ Position\ of\ Element\ in\ Sorted\ Array.cpp
 
 CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.o: ../036.\ Valid\ Sudoku.cpp
+
+CMakeFiles/untitled.dir/038._Count_and_Say.cpp.o: ../038.\ Count\ and\ Say.cpp
 
 CMakeFiles/untitled.dir/041._First_Missing_Positive.cpp.o: ../041.\ First\ Missing\ Positive.cpp
 

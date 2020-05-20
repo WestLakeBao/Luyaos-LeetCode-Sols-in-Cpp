@@ -36,7 +36,7 @@ public:
     }
 };
 
-int main(){
+int main5(){
     Solution solution;
     string s="cbbd";
     string result=solution.longestPalindrome(s);

@@ -474,6 +474,33 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/019._Remove_Nth_Node_From_End_of_List.cpp.s
 .PHONY : 019._Remove_Nth_Node_From_End_of_List.cpp.s
 
+020._Valid_Parentheses.o: 020._Valid_Parentheses.cpp.o
+
+.PHONY : 020._Valid_Parentheses.o
+
+# target to build an object file
+020._Valid_Parentheses.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.o
+.PHONY : 020._Valid_Parentheses.cpp.o
+
+020._Valid_Parentheses.i: 020._Valid_Parentheses.cpp.i
+
+.PHONY : 020._Valid_Parentheses.i
+
+# target to preprocess a source file
+020._Valid_Parentheses.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.i
+.PHONY : 020._Valid_Parentheses.cpp.i
+
+020._Valid_Parentheses.s: 020._Valid_Parentheses.cpp.s
+
+.PHONY : 020._Valid_Parentheses.s
+
+# target to generate assembly for a file
+020._Valid_Parentheses.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.s
+.PHONY : 020._Valid_Parentheses.cpp.s
+
 021._Merge_Two_Sorted_Lists.o: 021._Merge_Two_Sorted_Lists.cpp.o
 
 .PHONY : 021._Merge_Two_Sorted_Lists.o
@@ -500,6 +527,33 @@ untitled/fast:
 021._Merge_Two_Sorted_Lists.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/021._Merge_Two_Sorted_Lists.cpp.s
 .PHONY : 021._Merge_Two_Sorted_Lists.cpp.s
+
+022._Generate_Parentheses.o: 022._Generate_Parentheses.cpp.o
+
+.PHONY : 022._Generate_Parentheses.o
+
+# target to build an object file
+022._Generate_Parentheses.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.o
+.PHONY : 022._Generate_Parentheses.cpp.o
+
+022._Generate_Parentheses.i: 022._Generate_Parentheses.cpp.i
+
+.PHONY : 022._Generate_Parentheses.i
+
+# target to preprocess a source file
+022._Generate_Parentheses.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.i
+.PHONY : 022._Generate_Parentheses.cpp.i
+
+022._Generate_Parentheses.s: 022._Generate_Parentheses.cpp.s
+
+.PHONY : 022._Generate_Parentheses.s
+
+# target to generate assembly for a file
+022._Generate_Parentheses.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.s
+.PHONY : 022._Generate_Parentheses.cpp.s
 
 023._Merge_k_Sorted_Lists.o: 023._Merge_k_Sorted_Lists.cpp.o
 
@@ -689,6 +743,33 @@ untitled/fast:
 036._Valid_Sudoku.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/036._Valid_Sudoku.cpp.s
 .PHONY : 036._Valid_Sudoku.cpp.s
+
+038._Count_and_Say.o: 038._Count_and_Say.cpp.o
+
+.PHONY : 038._Count_and_Say.o
+
+# target to build an object file
+038._Count_and_Say.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/038._Count_and_Say.cpp.o
+.PHONY : 038._Count_and_Say.cpp.o
+
+038._Count_and_Say.i: 038._Count_and_Say.cpp.i
+
+.PHONY : 038._Count_and_Say.i
+
+# target to preprocess a source file
+038._Count_and_Say.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/038._Count_and_Say.cpp.i
+.PHONY : 038._Count_and_Say.cpp.i
+
+038._Count_and_Say.s: 038._Count_and_Say.cpp.s
+
+.PHONY : 038._Count_and_Say.s
+
+# target to generate assembly for a file
+038._Count_and_Say.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/038._Count_and_Say.cpp.s
+.PHONY : 038._Count_and_Say.cpp.s
 
 041._First_Missing_Positive.o: 041._First_Missing_Positive.cpp.o
 
@@ -2223,9 +2304,15 @@ help:
 	@echo "... 019._Remove_Nth_Node_From_End_of_List.o"
 	@echo "... 019._Remove_Nth_Node_From_End_of_List.i"
 	@echo "... 019._Remove_Nth_Node_From_End_of_List.s"
+	@echo "... 020._Valid_Parentheses.o"
+	@echo "... 020._Valid_Parentheses.i"
+	@echo "... 020._Valid_Parentheses.s"
 	@echo "... 021._Merge_Two_Sorted_Lists.o"
 	@echo "... 021._Merge_Two_Sorted_Lists.i"
 	@echo "... 021._Merge_Two_Sorted_Lists.s"
+	@echo "... 022._Generate_Parentheses.o"
+	@echo "... 022._Generate_Parentheses.i"
+	@echo "... 022._Generate_Parentheses.s"
 	@echo "... 023._Merge_k_Sorted_Lists.o"
 	@echo "... 023._Merge_k_Sorted_Lists.i"
 	@echo "... 023._Merge_k_Sorted_Lists.s"
@@ -2247,6 +2334,9 @@ help:
 	@echo "... 036._Valid_Sudoku.o"
 	@echo "... 036._Valid_Sudoku.i"
 	@echo "... 036._Valid_Sudoku.s"
+	@echo "... 038._Count_and_Say.o"
+	@echo "... 038._Count_and_Say.i"
+	@echo "... 038._Count_and_Say.s"
 	@echo "... 041._First_Missing_Positive.o"
 	@echo "... 041._First_Missing_Positive.i"
 	@echo "... 041._First_Missing_Positive.s"

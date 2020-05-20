@@ -1045,6 +1045,45 @@ CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.s: cmake_
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/017. Letter Combinations of a Phone Number.cpp" -o CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.s
 
+CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.o: ../020.\ Valid\ Parentheses.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/020. Valid Parentheses.cpp"
+
+CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/020. Valid Parentheses.cpp" > CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.i
+
+CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/020. Valid Parentheses.cpp" -o CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.s
+
+CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.o: ../022.\ Generate\ Parentheses.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/022. Generate Parentheses.cpp"
+
+CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/022. Generate Parentheses.cpp" > CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.i
+
+CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/022. Generate Parentheses.cpp" -o CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.s
+
+CMakeFiles/untitled.dir/038._Count_and_Say.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/038._Count_and_Say.cpp.o: ../038.\ Count\ and\ Say.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/untitled.dir/038._Count_and_Say.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/038._Count_and_Say.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/038. Count and Say.cpp"
+
+CMakeFiles/untitled.dir/038._Count_and_Say.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/038._Count_and_Say.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/038. Count and Say.cpp" > CMakeFiles/untitled.dir/038._Count_and_Say.cpp.i
+
+CMakeFiles/untitled.dir/038._Count_and_Say.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/038._Count_and_Say.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/038. Count and Say.cpp" -o CMakeFiles/untitled.dir/038._Count_and_Say.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/001._TwoSum.cpp.o" \
@@ -1122,7 +1161,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.o" \
 "CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.o" \
 "CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.o" \
-"CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o"
+"CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o" \
+"CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.o" \
+"CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.o" \
+"CMakeFiles/untitled.dir/038._Count_and_Say.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -1203,9 +1245,12 @@ untitled: CMakeFiles/untitled.dir/005._Longest_Palindromic_Substring.cpp.o
 untitled: CMakeFiles/untitled.dir/010._Regular_Expression_Matching.cpp.o
 untitled: CMakeFiles/untitled.dir/014._Longest_Common_Prefix.cpp.o
 untitled: CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o
+untitled: CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.o
+untitled: CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.o
+untitled: CMakeFiles/untitled.dir/038._Count_and_Say.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

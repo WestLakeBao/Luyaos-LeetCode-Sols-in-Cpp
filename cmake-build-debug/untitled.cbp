@@ -119,7 +119,13 @@
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/019. Remove Nth Node From End of List.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/020. Valid Parentheses.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/021. Merge Two Sorted Lists.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/022. Generate Parentheses.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/023. Merge k Sorted Lists.cpp">
@@ -141,6 +147,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/036. Valid Sudoku.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/luyaochen/CLionProjects/untitled/038. Count and Say.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/luyaochen/CLionProjects/untitled/041. First Missing Positive.cpp">
