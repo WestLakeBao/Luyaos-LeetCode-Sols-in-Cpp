@@ -1084,6 +1084,45 @@ CMakeFiles/untitled.dir/038._Count_and_Say.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/038._Count_and_Say.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/038. Count and Say.cpp" -o CMakeFiles/untitled.dir/038._Count_and_Say.cpp.s
 
+CMakeFiles/untitled.dir/091._Decode_Ways.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/091._Decode_Ways.cpp.o: ../091.\ Decode\ Ways.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/untitled.dir/091._Decode_Ways.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/091._Decode_Ways.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/091. Decode Ways.cpp"
+
+CMakeFiles/untitled.dir/091._Decode_Ways.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/091._Decode_Ways.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/091. Decode Ways.cpp" > CMakeFiles/untitled.dir/091._Decode_Ways.cpp.i
+
+CMakeFiles/untitled.dir/091._Decode_Ways.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/091._Decode_Ways.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/091. Decode Ways.cpp" -o CMakeFiles/untitled.dir/091._Decode_Ways.cpp.s
+
+CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.o: ../227.\ Basic\ Calculator\ II.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/227. Basic Calculator II.cpp"
+
+CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/227. Basic Calculator II.cpp" > CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.i
+
+CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/227. Basic Calculator II.cpp" -o CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.s
+
+CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.o: ../230.\ Kth\ Smallest\ Element\ in\ a\ BST.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.o -c "/Users/luyaochen/CLionProjects/untitled/230. Kth Smallest Element in a BST.cpp"
+
+CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/luyaochen/CLionProjects/untitled/230. Kth Smallest Element in a BST.cpp" > CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.i
+
+CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/luyaochen/CLionProjects/untitled/230. Kth Smallest Element in a BST.cpp" -o CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/001._TwoSum.cpp.o" \
@@ -1164,7 +1203,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp.o" \
 "CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.o" \
 "CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.o" \
-"CMakeFiles/untitled.dir/038._Count_and_Say.cpp.o"
+"CMakeFiles/untitled.dir/038._Count_and_Say.cpp.o" \
+"CMakeFiles/untitled.dir/091._Decode_Ways.cpp.o" \
+"CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.o" \
+"CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -1248,9 +1290,12 @@ untitled: CMakeFiles/untitled.dir/017._Letter_Combinations_of_a_Phone_Number.cpp
 untitled: CMakeFiles/untitled.dir/020._Valid_Parentheses.cpp.o
 untitled: CMakeFiles/untitled.dir/022._Generate_Parentheses.cpp.o
 untitled: CMakeFiles/untitled.dir/038._Count_and_Say.cpp.o
+untitled: CMakeFiles/untitled.dir/091._Decode_Ways.cpp.o
+untitled: CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.o
+untitled: CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luyaochen/CLionProjects/untitled/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

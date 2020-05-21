@@ -1203,6 +1203,33 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/088._Merge_Sorted_Array.cpp.s
 .PHONY : 088._Merge_Sorted_Array.cpp.s
 
+091._Decode_Ways.o: 091._Decode_Ways.cpp.o
+
+.PHONY : 091._Decode_Ways.o
+
+# target to build an object file
+091._Decode_Ways.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/091._Decode_Ways.cpp.o
+.PHONY : 091._Decode_Ways.cpp.o
+
+091._Decode_Ways.i: 091._Decode_Ways.cpp.i
+
+.PHONY : 091._Decode_Ways.i
+
+# target to preprocess a source file
+091._Decode_Ways.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/091._Decode_Ways.cpp.i
+.PHONY : 091._Decode_Ways.cpp.i
+
+091._Decode_Ways.s: 091._Decode_Ways.cpp.s
+
+.PHONY : 091._Decode_Ways.s
+
+# target to generate assembly for a file
+091._Decode_Ways.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/091._Decode_Ways.cpp.s
+.PHONY : 091._Decode_Ways.cpp.s
+
 094._Binary_Tree_Inorder_Traversal.o: 094._Binary_Tree_Inorder_Traversal.cpp.o
 
 .PHONY : 094._Binary_Tree_Inorder_Traversal.o
@@ -1797,6 +1824,60 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/217._Contains_Duplicate.cpp.s
 .PHONY : 217._Contains_Duplicate.cpp.s
 
+227._Basic_Calculator_II.o: 227._Basic_Calculator_II.cpp.o
+
+.PHONY : 227._Basic_Calculator_II.o
+
+# target to build an object file
+227._Basic_Calculator_II.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.o
+.PHONY : 227._Basic_Calculator_II.cpp.o
+
+227._Basic_Calculator_II.i: 227._Basic_Calculator_II.cpp.i
+
+.PHONY : 227._Basic_Calculator_II.i
+
+# target to preprocess a source file
+227._Basic_Calculator_II.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.i
+.PHONY : 227._Basic_Calculator_II.cpp.i
+
+227._Basic_Calculator_II.s: 227._Basic_Calculator_II.cpp.s
+
+.PHONY : 227._Basic_Calculator_II.s
+
+# target to generate assembly for a file
+227._Basic_Calculator_II.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/227._Basic_Calculator_II.cpp.s
+.PHONY : 227._Basic_Calculator_II.cpp.s
+
+230._Kth_Smallest_Element_in_a_BST.o: 230._Kth_Smallest_Element_in_a_BST.cpp.o
+
+.PHONY : 230._Kth_Smallest_Element_in_a_BST.o
+
+# target to build an object file
+230._Kth_Smallest_Element_in_a_BST.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.o
+.PHONY : 230._Kth_Smallest_Element_in_a_BST.cpp.o
+
+230._Kth_Smallest_Element_in_a_BST.i: 230._Kth_Smallest_Element_in_a_BST.cpp.i
+
+.PHONY : 230._Kth_Smallest_Element_in_a_BST.i
+
+# target to preprocess a source file
+230._Kth_Smallest_Element_in_a_BST.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.i
+.PHONY : 230._Kth_Smallest_Element_in_a_BST.cpp.i
+
+230._Kth_Smallest_Element_in_a_BST.s: 230._Kth_Smallest_Element_in_a_BST.cpp.s
+
+.PHONY : 230._Kth_Smallest_Element_in_a_BST.s
+
+# target to generate assembly for a file
+230._Kth_Smallest_Element_in_a_BST.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/230._Kth_Smallest_Element_in_a_BST.cpp.s
+.PHONY : 230._Kth_Smallest_Element_in_a_BST.cpp.s
+
 234._Palindrome_Linked_List.o: 234._Palindrome_Linked_List.cpp.o
 
 .PHONY : 234._Palindrome_Linked_List.o
@@ -2385,6 +2466,9 @@ help:
 	@echo "... 088._Merge_Sorted_Array.o"
 	@echo "... 088._Merge_Sorted_Array.i"
 	@echo "... 088._Merge_Sorted_Array.s"
+	@echo "... 091._Decode_Ways.o"
+	@echo "... 091._Decode_Ways.i"
+	@echo "... 091._Decode_Ways.s"
 	@echo "... 094._Binary_Tree_Inorder_Traversal.o"
 	@echo "... 094._Binary_Tree_Inorder_Traversal.i"
 	@echo "... 094._Binary_Tree_Inorder_Traversal.s"
@@ -2451,6 +2535,12 @@ help:
 	@echo "... 217._Contains_Duplicate.o"
 	@echo "... 217._Contains_Duplicate.i"
 	@echo "... 217._Contains_Duplicate.s"
+	@echo "... 227._Basic_Calculator_II.o"
+	@echo "... 227._Basic_Calculator_II.i"
+	@echo "... 227._Basic_Calculator_II.s"
+	@echo "... 230._Kth_Smallest_Element_in_a_BST.o"
+	@echo "... 230._Kth_Smallest_Element_in_a_BST.i"
+	@echo "... 230._Kth_Smallest_Element_in_a_BST.s"
 	@echo "... 234._Palindrome_Linked_List.o"
 	@echo "... 234._Palindrome_Linked_List.i"
 	@echo "... 234._Palindrome_Linked_List.s"
