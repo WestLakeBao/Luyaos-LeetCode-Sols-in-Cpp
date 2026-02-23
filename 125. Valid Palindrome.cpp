@@ -5,18 +5,16 @@ using namespace std;
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int left=0, right=s.length()-1;
-        while (left<right){
-            while (! isalpha(s[left]) && ! isdigit(s[left])){
-                left ++;
-                if (left>=right) return true; // for cases like ".,"
+        int left=0;
+        int right=s.size()-1;
+        while (left < right){
+            while (left < right && !isalnum(s[left])) left += 1;
+            while (left < right && !isalnum(s[right])) right -= 1;
+            if (tolower(s[left]) != tolower(s[right])){
+                return false;
             }
-            while (! isalpha(s[right]) && ! isdigit(s[right])){
-                right --;
-            }
-            if (tolower(s[left]) != tolower(s[right])) return false;
-            left++;
-            right--;
+            left += 1;
+            right -= 1;
         }
         return true;
     }
